@@ -1,0 +1,1145 @@
+pairID,Statement.QUESTION,Statement.RESPONSE,Case_ID.QUESTION,Question_ID.QUESTION
+1,How can I help you today?,I've had really bad pain in my belly for the last 4 hours. My wife brought me in because it's so bad.,581607,560
+1,What do you need today?,I've had really bad pain in my belly for the last 4 hours. My wife brought me in because it's so bad.,RZ,
+1,Tell me what's going on today.,I've had really bad pain in my belly for the last 4 hours. My wife brought me in because it's so bad.,RZ,
+2,Do you have any other symptoms or concerns you'd like to talk about?,I've been sick to my stomach and throwing up.,RZ,
+2,"Medical or not, is there anything else you'd like to discuss today?",I've been sick to my stomach and throwing up.,RZ,
+2,Do you have any other symptoms or concerns we should discuss?,I've been sick to my stomach and throwing up.,581607,336
+3,When did your abdominal pain start?,Four hours ago.,581607,231-200
+3,Do you remember when the pain in your abs started?,Four hours ago.,KM,
+3,What time and day did this pain in your abs start? Do you remember?,Four hours ago.,KM,
+4,What are the events surrounding the start of your abdominal pain?,Nothing out of the ordinary. I was just sitting in my chair watching Wheel of Fortune like I do every day when it just suddenly started hurting.,581607,600-200
+4,Are there any events you can share with me that occurred around the same time as the start of your abdominal pain?,Nothing out of the ordinary. I was just sitting in my chair watching Wheel of Fortune like I do every day when it just suddenly started hurting.,RZ,
+4,Did anything else happen when your abdominal pain began?,Nothing out of the ordinary. I was just sitting in my chair watching Wheel of Fortune like I do every day when it just suddenly started hurting.,RZ,
+5,Can you think of anything that has made the pain better or worse?,"It doesn't matter what I do. It just hurts and it won't go away. This pain is just so bad. Please, can you help me? ",SP,
+5,What makes the abdominal pain better or worse?,"It doesn't matter what I do. It just hurts and it won't go away. This pain is just so bad. Please, can you help me? ",SP,
+5,Does anything make the pain in your abdomen better or worse?,"It doesn't matter what I do. It just hurts and it won't go away. This pain is just so bad. Please, can you help me? ",581607,234-200
+6,"Is your pain affected by what, when or how much you eat?",I don't want to try eating anything right now.,581607,692
+7,Do you have pain/discomfort when you are at rest?,Yes. I'm in pain right now!,581607,1369
+8,Does the pain get worse with breathing?,No.,581607,681
+9,"What does the pain/discomfort in your abdomen feel like? (cramping, burning, stabbing, aching, tingling, squeezing)",Sharp. It's bad!,581607,235-200
+9,Tell me how the pain in your abdomen feels.,Sharp. It's bad!,RZ,
+9,"Would you describe the pain in your abdomen as cramping, burning, stabbing, aching, tingling, or squeezing?",Sharp. It's bad!,RZ,
+10,Where more precisely is your abdominal pain?,All over my belly. Everywhere!,581607,635
+10,Can you please point to where your abdominal pain is the worst?,All over my belly. Everywhere!,RZ,
+10,Tell me more specifically where the abdominal pain is most severe.,All over my belly. Everywhere!,RZ,
+11,Is the pain in your abdomen superficial (on the surface) or deep inside?,Inside. Inside for sure!,581607,597-200
+12,Do you have any abdominal bloating?,I don't think so.,581607,552-200
+13,Does the pain in your abdomen radiate someplace else? Where?,"No, it's all in my belly.",581607,236-200
+13,When you're feeling the abdominal pain does it spread to anywhere else?,"No, it's all in my belly.",SP,
+13,Is the abdominal pain radiating anywhere else?,"No, it's all in my belly.",SP,
+14,How severe (1-10 scale) is your abdominal pain?,"If 10 is bad, it's a 10.",581607,237-200
+14,"With 1 being barely any pain and 10 being the worst pain you've felt in your life, how would you rank your abdominal pain?","If 10 is bad, it's a 10.",RZ,
+14,How bad is your abdominal pain?,"If 10 is bad, it's a 10.",RZ,
+15,Does the pain in your abdomen keep you from sleeping?,Don't know. Just started 4 hours ago.,581607,338-200
+16,Have you had the pain in your abdomen before?,"No, I've never had anything like this.",581607,592-200
+16,Has the pain in your abdomen happened before?,"No, I've never had anything like this.",KM,
+16,Would you say that the pain in your abdomen has occured before?,"No, I've never had anything like this.",KM,
+17,Any change in your abdominal pain since it began?,"No. It's not going away, I can tell you that.",581607,241-200
+18,Is there a pattern to your abdominal pain?,I don't know what you mean. It hasn't changed much since it started.,581607,233-200
+19,What treatments have you had for your abdominal pain?,Nothing. Please do something!,581607,593-200
+19,Is there anything that you or a doctor have done for your abdominal pain? Medications or otherwise?,Nothing. Please do something!,KM,
+19,"Tell me, have you had anything done to try and alleviate the abdominal pain? Like any treatments?",Nothing. Please do something!,KM,
+20,Have you had any trauma to your abdomen?,No.,581607,596-200
+20,"In the past, did you have any injuries to your abdominal area that have sustained a lasting effect?",No.,KM,
+20,Has there ever been any trauam to your abdomen?,No.,KM,
+21,Do you have any problems with movement?,Uh...no.,581607,512
+22,Have you been in a situation where you were sitting or lying still for a long time?,Uh...no.,581607,194
+23,Tell me about any current or past medical problems.,"I'm still pretty healthy, but I've got some heart issues. High blood pressure, what they call a-fib, and coronary disease. When I was having the a-fib last year they also did a dye test on me and said I had about 50% blockage in one of the arteries in my heart. I wasn’t having any chest pain and they said it wasn’t bad enough for them to put in a stent. They decided to shock me out of the a-fib and then just put me on aspirin and told me to live healthy... You know, the usual stuff they say to you when you have a problem.",RZ,
+23,Do you have any previous or ongoing medical problems?,"I'm still pretty healthy, but I've got some heart issues. High blood pressure, what they call a-fib, and coronary disease. When I was having the a-fib last year they also did a dye test on me and said I had about 50% blockage in one of the arteries in my heart. I wasn’t having any chest pain and they said it wasn’t bad enough for them to put in a stent. They decided to shock me out of the a-fib and then just put me on aspirin and told me to live healthy... You know, the usual stuff they say to you when you have a problem.",RZ,
+23,Can you tell me about any current or past medical problems you have had?,"I'm still pretty healthy, but I've got some heart issues. High blood pressure, what they call a-fib, and coronary disease. When I was having the a-fib last year they also did a dye test on me and said I had about 50% blockage in one of the arteries in my heart. I wasn’t having any chest pain and they said it wasn’t bad enough for them to put in a stent. They decided to shock me out of the a-fib and then just put me on aspirin and told me to live healthy... You know, the usual stuff they say to you when you have a problem.",581607,261
+24,Any new medical issues or diagnoses since your last visit?,What? Why are you asking this?,581607,1310
+25,Have you had any recent acute or chronic infection?,No,581607,1156
+26,"Have you had chicken pox, mumps, measles or rheumatic fever?",No,581607,568
+27,Do you have high cholesterol?,Uh...no.,581607,197
+28,Do you have heart disease and/or have you ever had a heart attack?,"I don't have bad disease, but a year ago they did find out that I have some blockage. Not bad enough to do anything about it though.",581607,198
+29,Do you have a history of angina?,No.,581607,650
+30,Do you have a history of heartburn?,Nope.,581607,1277
+31,Have you had any recent blood or lab tests? What were the results?,Nope.,581607,1368
+32,"Any previous medical, surgical or dental procedures?",Just when they shocked me to get me out of a-fib. Nothing involving my belly.,581607,263
+33,Have you recently had surgery?,What do you consider recent?,581607,677
+34,Have you ever had heart surgery?,No. Just that electrical treatment.,581607,695
+35,Have you had a colonoscopy?,No,581607,1278
+36,"Have you had a recent endoscopy, colonoscopy or biopsy?",No,581607,141
+37,Have you ever had a catheterization procedure?,Uh...no.,581607,687
+38,Have you been treated for blood clots? (have a history of thrombolytic or anticoagulation therapy)?,Uh...no.,581607,651
+39,Did your fatigue/tiredness begin following surgery or medical procedure?,I'm not fatigued.,581607,11
+40,Have you ever been hospitalized?,Only briefly for the heart-shock treatment.,581607,40
+41,What childhood illnesses have you had?,"The usual coughs, colds and tummy aches.  Nothing remarkable.",581607,573
+42,"Do you have any allergies, such as medications, food and/or latex, for example?",Not to my knowledge.,581607,247
+42,Have you ever had any allergies?,Not to my knowledge.,SP,
+42,Are you allergic to anything?,Not to my knowledge.,SP,
+43,Are you taking any prescription medications?,Just the metoprolol and lisinopril.,581607,248
+43,Do you take any prescribed medications?,Just the metoprolol and lisinopril.,RZ,
+43,Please list any prescribed medications you currently take.,Just the metoprolol and lisinopril.,RZ,
+44,Are you taking any over-the-counter or herbal medications?,Aspirin when I can remember it.,581607,253
+44,Are you taking anything over-the counter? How about herbal medications?,Aspirin when I can remember it.,SP,
+44,Do you take over-the-counter or herbal medications?,Aspirin when I can remember it.,SP,
+45,Have you been taking your medications as prescribed?,Of course.,581607,583
+46,Are you taking aspirin or NSAIDs? How much and how often?,Yes aspirin when I can remember.,581607,505
+47,Do you take fish oil supplements?,Uh...no.,581607,1350
+48,Are you having any problems with your medications?,Nope.,581607,584
+49,Have you noticed any side effects from any new medications?,Nope.,581607,1340
+50,How much of your medication did you take?,Just what's prescribed.,581607,250
+51,Are your immunizations up to date?,"I'm sure they must be. My primary care doctor is real good about things like that. And, I get a flu shot every year.",581607,465
+52,Have you recently traveled? Where did you go?,No,581607,26
+53,"Tell me about the health of your grandparents, parents and children.","My mom, God bless her, is still alive at 95 despite a bad case of dementia. She's got high blood pressure, too.",581607,579
+54,Are there any diseases that run in your family?,No.,581607,324
+55,Do you know of any genetic diseases that are found in your family?,No,581607,645
+56,"Do you drink alcohol? If so, what do you drink and how many drinks per day?",I'm a lightweight. I don't drink alcohol any more often than a beer once every 3 to 4 months.,581607,258
+56,How many alcoholic beverages do you consume per day?,I'm a lightweight. I don't drink alcohol any more often than a beer once every 3 to 4 months.,RZ,
+56,"If you drink alcohol, would you mind telling me your habits surrounding this?",I'm a lightweight. I don't drink alcohol any more often than a beer once every 3 to 4 months.,RZ,
+57,Has drinking alcohol ever caused you problems?,Uh...no.,581607,315
+58,"Do you use any recreational drugs? If so, what?",No,581607,257
+58,Have you been using any illicit drugs or substances?,No,KM,
+58,"Now I have to ask, and this is important: do you have a history of using any drugs or are you using now? You will not get in trouble, but I need to know just in case it might be influencing what's going on.",No,KM,
+59,Do you now or have you ever smoked or chewed tobacco?,I sure do... a pack a day for 50 years and I ain't quitting.,581607,254
+59,Tell me about your smoking habits.,I sure do... a pack a day for 50 years and I ain't quitting.,RZ,
+59,Do you have a history with tobacco products?,I sure do... a pack a day for 50 years and I ain't quitting.,RZ,
+60,"Can you tell me about your diet, what do you normally eat?",I pretty much eat what I want to; including red meats and sweets.,581607,378
+61,How much water/fluids do you drink in a day?,A normal amount.,581607,1406
+62,Do you drink caffeinated beverages or eat chocolate?,No.,581607,89
+63,How is your appetite? Any recent change?,"It was fine this morning, but I haven't eaten anything since. I ate a bowl of oatmeal for breakfast several hours before this pain started. You don't think that oatmeal was bad, do you?  My wife had some and she's fine.",581607,92
+63,Have there been any changes in your recent eating habits?,"It was fine this morning, but I haven't eaten anything since. I ate a bowl of oatmeal for breakfast several hours before this pain started. You don't think that oatmeal was bad, do you? My wife had some and she's fine.",RZ,
+63,How has your appetite been since the onset of your abdominal issues?,"It was fine this morning, but I haven't eaten anything since. I ate a bowl of oatmeal for breakfast several hours before this pain started. You don't think that oatmeal was bad, do you?  My wife had some and she's fine.",RZ,
+64,How many bowel movements do you have a day?,A normal amount.,581607,1421
+65,Tell me about your social/leisure activities.,I don't have much to tell.,581607,558
+66,Tell me about daily exercise or sports that you play.,I don't play sports.,581607,559
+67,Any new exercise or activities?,Uh...no.,581607,1281
+68,Has your level of activity recently changed?,Nope.,581607,280
+69,"On average, how many hours per night do you sleep?",6-8 hours.,581607,608
+70,Do you nap during the day?,No,581607,85
+71,Do you have a family?,Yeah.,581607,567
+72,How is your family and family life?,Pretty good I guess.,581607,17
+73,Do you work or live with small children?,No.,581607,476
+74,"Do you have parents, children, other family members or individuals living in your home?",Why do you need to know that?,581607,1286
+,Tell me about your family life. Does anyone live with you?,Why do you need to know that?,RZ,
+75,Do you have any children? Spouse? Significant partner?,"Yes, I have a very dear wife and a few scattered, grown children.",581607,531
+77,Do you have a disability?,Nope.,581607,1658
+78,Does anyone in your household have a disability?,No.,581607,1290
+79,Do you have assistance at home?,Why are you asking me this?,581607,1287
+81,"Do you have any of the following problems: fatigue, difficulty sleeping, unintentional weight loss or gain, fevers, night sweats?",That's a big long list. None of that stuff. What does that have to do with my belly?,581607,1239
+81,"Are you experiencing any of the following: fatigue, difficulty sleeping, unitentional weight loss or gain, fevers, or night sweats?",That's a big long list. None of that stuff. What does that have to do with my belly?,,
+81,"Have you noticed any of the following: fatigue, difficulty sleeping, unitentional weight loss or gain, fevers, or night sweats?",That's a big long list. None of that stuff. What does that have to do with my belly?,,
+82,"Do you have any problems with: itchy scalp, skin changes, moles, thinning hair, brittle nails?",No.,581607,1238
+83,"Do you have any problems with: headaches that don't go away with aspirin or Tylenol (acetaminophen), double or blurred vision, difficulty with night vision, problems hearing, ear pain, sinus problems, chronic sore throats, difficulty swallowing?",No,581607,1240
+83,"Are you experiencing headaches that don't go away with aspirin or Tylenol (acetaminophen), double or blurred vision, difficulty with night vision, problems hearing, ear pain, sinus problems, chronic sore throats, difficulty swallowing?",No,SP,
+83,"Have you noticed headaches that don't go away with aspirin or Tylenol (acetaminophen), double or blurred vision, difficulty with night vision, problems hearing, ear pain, sinus problems, chronic sore throats, difficulty swallowing?",No,SP,
+84,"Have you noticed any breast: discharge, lumps, scaly nipples, pain, swelling or redness?",Uh...no.,581607,1241
+85,Do you experience: chest pain discomfort or pressure; pain/pressure/dizziness with exertion or getting angry; palpitations; decreased exercise tolerance; blue/cold fingers and toes?,I keep telling you my belly hurts! What do you really need to know about all that other stuff?,581607,1242
+85,Are you experiencing any pain or any kind of tightness in your chest?,I keep telling you my belly hurts! What do you really need to know about all that other stuff?,SP,
+85,How's your chest? Is there any pain or discomfort there?,I keep telling you my belly hurts! What do you really need to know about all that other stuff?,SP,
+86,"Do you experience: shortness of breath, wheezing, difficulty catching your breath, chronic cough, sputum production?",No coughing or wheezing. I am a little short of breath. Did I tell you that already?,581607,1243
+86,"Are you experiencing any of the following: shortness of breath, wheezing, difficulty catching your breath, chronic cough, sputum production?",No coughing or wheezing. I am a little short of breath. Did I tell you that already?,SP,
+86,"Have you noticed any of the following: shortness of breath, wheezing, difficulty catching your breath, chronic cough, sputum production?",No coughing or wheezing. I am a little short of breath. Did I tell you that already?,SP,
+87,"Do you have problems with: nausea, vomiting, constipation, diarrhea, coffee grounds in your vomit, dark tarry stool, bright red blood in your bowel movements, early satiety, bloating?",Did I tell you about the nausea and vomiting? What else did you ask?,581607,1244
+87,"Tell me about any troubles you've had with bowel movements, nausea and vomiting.",Did I tell you about the nausea and vomiting? What else did you ask?,KM,
+87,"Have you experienced any of the following symptoms: nausea, vomiting, constipation, diarrhea, coffee grounds in your vomit, dark tarry stool, bright red blood in your bowel movements, early satiety, bloating?",Did I tell you about the nausea and vomiting? What else did you ask?,KM,
+88,"When you urinate, have you noticed: pain, burning, blood, difficulty starting or stopping, dribbling, incontinence, urgency during day or night or any changes in frequency?",What does peeing have to do with my stomach? No pain peeing or blood or anything like that.,581607,1250
+88,"Have you noticed any of the followng while going to the restroom: pain, burning, blood, difficulty starting or stopping, dribbling, incontinence, urgency during day or night or any changes in frequency?",What does peeing have to do with my stomach? No pain peeing or blood or anything like that.,,
+88,"Have you seen anything different when you pee? For example: pain, burning, blood, difficulty starting or stopping, dribbling, incontinence, urgency during day or night or any changes in frequency?",What does peeing have to do with my stomach? No pain peeing or blood or anything like that.,,
+89,"Do you have problems with: muscle or joint pain, redness, swelling, muscle cramps, joint stiffness, joint swelling or redness, back pain, neck or shoulder pain, hip pain?",No.,581607,1245
+89,"Tell me, do you have any of the following problems: muscle or joint pain, redness, swelling, muscle cramps, joint stiffness, joint swelling or redness, back pain, neck or shoulder pain, or hip pain?",No.,KM,
+89,"Have you had any issues with any of the following: muscle or joint pain, redness, swelling, muscle cramps, joint stiffness, joint swelling or redness, back pain, neck or shoulder pain, or hip pain?",No.,KM,
+90,"Do you have any of the following: heat or cold intolerance, increased thirst, increased sweating, frequent urination, change in appetite?",No.,581607,1247
+91,"Have you noticed: any bruising, bleeding gums, nose bleeds or other sites of increased bleeding?",No,581607,1246
+92,"Do you have any of the following: dizziness, fainting, spinning room, seizures, weakness, numbness, tingling, tremor?",No.,581607,1248
+92,"Are you experiencing any of the following:dizziness, fainting, spinning room, seizures, weakness, numbness, tingling, tremor?",No.,SP,
+92,"Have you noticed any of the following: dizziness, fainting, spinning room, seizures, weakness, numbness, tingling, tremor?",No.,SP,
+93,"Do you have any problems with: nervousness, depression, lack of interest, sadness, memory loss, or mood changes, or ever hear voices or see things that you know are not there?",No,581607,1249
+95,Are you short of breath at rest?,Yes. I've only felt a little winded over the last hour.,581607,1224
+96,Do you sleep with pillows to help you breathe?,No,581607,204
+97,Does your chest feel tight or heavy?,"No, not at all. But, I have felt a little winded over the last hour or so since I got to the hospital.",581607,211
+98,"Do you have the sensation of a ""pounding heart"" in your chest?",Nope.,581607,1225
+99,Do you have a history of irregular heartbeats?,Yes. I had what they call atrial fibrillation. They fixed it electrically about a year ago.,581607,411
+100,Did you or have you ever lost consciousness?,Uh...no.,581607,574
+101,Do your fingers turn white or blue when exposed to the cold?,No.,581607,1173
+102,Have you noticed that your hands and feet are cold?,Nope.,581607,1206
+103,Do you have a cough?,Uh...no.,581607,545-12
+104,Do you have any symptoms that occur at the same time as your headache?,I don't have a headache.,581607,63
+105,Do you have a headache?,Nope.,581607,545-28
+106,"Is there violence, abuse, trauma or bullying in your home living situation? If so, by whom?",No,581607,1291
+107,"Are there any guns in your home? If so, are they stored in a secure location?",No,581607,625
+108,"Within your list of responsibilities and priorities, where does your health fall?",Why do you need to know that?,581607,1285
+109,Tell me about your work.,"I'm retired now, but I was in construction for most of my years.",581607,557
+,"Do you currently work? If so, what is your occupation?","I'm retired now, but I was in construction for most of my years.",RZ,
+,What do you do for a living?,"I'm retired now, but I was in construction for most of my years.",RZ,
+110,What is your highest level/grade in school?,I don't know why you are asking me this.,581607,1284
+111,What is your education background?,Why do you need to know that?,581607,569
+112,How are your grades in school?,What? Why are you asking this?,581607,706
+113,Do you have any difficulty performing activities of daily living?,No.,581607,446
+114,Tell me about your family and friends? Has anything changed?,What do you want to know?,581607,709
+116,Do you practice any religion?,Uh...no.,581607,343
+117,Do your religious or cultural beliefs prevent you from receiving certain types of medical care or treatment?,Nope.,581607,449
+119,Have you had any more stress in your life lately?,Uh...no.,581607,16
+120,Do you feel sudden episodes of intense anxiety?,Nope.,581607,38
+121,"Have you had panic attacks? If so, can you describe them.",No,581607,750
+122,How do you feel about life?,It's OK I guess. The normal ups and downs.,581607,375
+123,Do you feel happy most of the time?,Yeah.,581607,722
+124,Are you sexually active?,That's private. What does that have to do with my stomach anyway?,581607,435
+125,Have you ever had abdominal surgery?,Uh...no.,581607,684
+126,Do you require assistance to go to the toilet?,No,581607,522
+127,Are you having any trouble hearing?,No.,581607,6
+128,Are there unusual sounds in your ears?,No.,581607,5
+129,Are your eyes tearing and/or itching?,No,581607,1124
+130,Are you having any problems with your eyes?,No,581607,332
+131,Do you have nose bleeds?,Uh...no.,581607,420
+132,Have you recently had an upper respiratory infection?,No.,581607,369
+133,Do you have a runny nose/nasal congestion?,No.,581607,1702
+134,Do you have sinus pain?,No,581607,1105
+135,Have you ever had bleeding gums before?,Don't have that problem.,581607,1715
+136,Do you have a sore throat?,No,581607,545-46
+137,Is your voice hoarse?,Uh...no.,581607,303
+138,Do you have pain or swelling in a testicle?,No,581607,483
+139,Do you have difficulty getting or keeping an erection (erectile dysfunction)?,Nope.,581607,545-23
+140,Have you had urethral discharge?,Nope.,581607,358
+141,Do you have joint or bone pain?,No.,581607,1103
+142,Do you have muscle pain or cramping?,No.,581607,81
+143,Are you stiff anywhere?,No,581607,279
+145,Have you ever been diagnosed with thyroid problems?,Nope.,581607,118
+146,Do you believe you have any neurological problems?,Uh...no.,581607,273
+147,Do you have any tingling or numbness anywhere?,Uh...no.,581607,588
+148,Have you had any seizures?,Nope.,581607,49
+149,Do you have any mental health problems?,No.,581607,88
+151,Do you have a sense of impending doom?,No.,581607,210
+152,Do you have any abnormal body hair loss or gain?,Nope.,581607,380
+170,Do you have high blood pressure?,"Yeah, diagnosed back when I was 60.",583334,196
+171,Have you ever had an ECG (EKG)?,Yes.,583334,575
+172,Have you ever had a stroke?,Uh...no.,583334,572
+173,Have you ever been diagnosed with a congenital heart problem?,Uh...no.,583334,697
+174,Do you have a history of heart failure (HF)?,Nope.,583334,1119
+179,Do you have diabetes?,No,583334,164
+180,Do you have a history of a bowel obstruction?,No,583334,1126
+181,How is your overall health?,"Well, I've got some issues, but I'm still pretty healthy.",583334,201
+182,Are you worried about your health?,"Not generally, but I'm worried right now.",583334,710
+184,Has anyone else you know developed these symptoms?,Uh...no.,583334,322
+185,When did your nausea and/or vomiting start?,Just after the pain came on.,583334,561-39
+186,How often are you nauseous or vomiting?,Just this morning.,583334,541-39
+187,How severe is your nausea and/or vomiting?,"I don't know how to measure that. I can tell you I'm fairly nauseated since the pain came. I've thrown up a few times, too.",583334,543-39
+188,Have you been vomiting anything that looks like blood or coffee grounds?,No. That would be quite alarming.,583334,1196
+189,What does your vomit look like?,Mostly the oatmeal I had for breakfast... no blood or anything like that.,583334,450
+189,Please describe the vomit you mentioned earlier.,Mostly the oatmeal I had for breakfast... no blood or anything like that.,KM,
+189,What did the throw up look like?,Mostly the oatmeal I had for breakfast... no blood or anything like that.,KM,
+196,Have you had any significant traumatic injuries or accidents?,Nope.,583334,90
+202,Do you have trouble taking medicines the way you have been told to take them?,Nope.,583334,1766
+204,Are you taking any medications for your symptoms?,Not yet.,583334,246
+206,Are you taking any medications that were prescribed by a different health care provider?,Just by my primary doctor.,583334,252
+207,Any new or recent change in medications?,"No, same ones for a while now.",583334,251
+209,When did you last take your medications?,"This morning, I believe.",583334,249
+211,When was your last physical?,Uh...I really don't remember.,583334,1341
+215,Have you had any contact with other sick people?,Don't believe so.,583334,39
+218,Anything new in your family medical history I should know about?,Nope.,583334,1339
+219,Have you or any family member had a history of gallstones?,Nope.,583334,642
+220,Have either of your parents or a blood sibling died? From what? And how old were they?,My dad died when he was 65 of a heart attack. My mother is still going at 95.,583334,259
+221,Where and with whom are you living?,Do you really need to know that?,583334,779
+226,Does anything trigger your sudden dread or fright?,Don't have that problem.,583334,179
+227,What causes you to become nervous or afraid?,That's not a problem for me.,583334,185
+230,How many children are in your household?,Do you really need to know that?,583334,1289
+232,Have you been eating anything out of the ordinary lately?,No,583334,1226
+233,Are you eating a lot of salty food?,Nope.,583334,1356
+234,What did you eat yesterday?,Can't remember.,583334,535
+243,Is there any stiffness in your neck?,Nope.,583334,551-219
+245,When did your difficulty breathing start?,I don't have difficulty breathing ... I am feeling a little short of breath.,583334,561-19
+246,When did you first notice feeling short of breath?,It just started one hour back.,583334,1675
+247,How long does your shortness of breath last?,It just started in the last hour or so after I got here.,583334,1419
+248,Does anything make your shortness of breath better or worse?,"It just started one hour back, so I really can't say.",583334,1676
+249,Do you become short of breath with exertion?,Usually not. But a little bit over the last hour since I got here.,583334,10
+251,Are you short of breath when lying down?,Normally? No.,583334,203
+254,Do you have unusual heartbeats (palpitations)?,"Yeah, funny thing. For the past 2 days I have. I haven't had that since the heart shock treatment a year ago.",583334,545-42
+260,Do you have diarrhea?,"No, not diarrhea. I did have 1 loose stool not long after this pain started, though. No blood or anything. And before that -- when I got up this morning -- I had a normal bowel movement.",583334,545-14
+260,Are you experiencing diarrhea?,"No, not diarrhea. I did have 1 loose stool not long after this pain started, though. No blood or anything. And before that -- when I got up this morning -- I had a normal bowel movement.",SP,
+260,Diarrhea?,"No, not diarrhea. I did have 1 loose stool not long after this pain started, though. No blood or anything. And before that -- when I got up this morning -- I had a normal bowel movement.",SP,
+261,Do you have a problem with constipation?,Uh...no.,583334,545-11
+262,"Do you have pain, tenderness or uncomfortable fullness around your anus?",No,583334,363
+263,Have you passed gas?,Like just now?,583334,1652
+264,When did you last pass gas?,I don't keep a log of that sort of thing. Is that important?,583334,1653
+265,Are you unable to pass gas?,That would be the day! I've never had any problems with that.,583334,672
+266,"What laxatives, enemas or suppositories do you use?",I don't use those things.,583334,291
+268,Have you had erectile dysfunction problems before?,Nope.,583334,242-23
+275,Do you or have you had liver problems?,Nope.,583334,570
+276,Do you have any history of lung disease?,Nope.,583334,1218
+282,When was the last time you vomited blood or coffee grounds?,I haven't vomited that.,603854,1199
+284,What are the events surrounding the start of your nausea and/or vomiting?,Came on right after the pain in my belly.,603854,267-39
+285,Does anything make your nausea and/or vomiting better or worse?,Not really.,603854,244-39
+287,Has there been any change in your nausea and/or vomiting over time?,"No, just started this morning.",603854,439-39
+288,Does your nausea and/or vomiting come and go?,"No, the nausea is pretty constant.",603854,604-39
+289,Is there any pattern to your nausea and/or vomiting?,"No, just started this morning.",603854,542-39
+290,What treatments have you had for your nausea and/or vomiting?,Nothing.,603854,590-39
+291,Do you have any pain in your abdomen?,I sure do! That's why I'm here.,603854,230-200
+318,Have you ever had CT scans?,Uh...no.,603854,1699
+326,Have you had a flu shot?,Yes.,603854,1280
+327,Have you had a pneumovax injection?,"Yes, I think I got one along with my flu shot.",603854,1279
+330,What is your name?,{{patient:full_name}},603854,563
+331,How old are you?,I'm 71.,603854,316
+336,How much do you smoke a day?,A pack a day.,603854,255
+339,When did your diarrhea start?,I don't have that problem.,603854,561-14
+340,Do you have a problem with generalized weakness?,No.,603854,545-38
+341,Do you have a dizziness problem?,Uh...no.,603854,545-16
+342,Are you belching?,Uh...no.,603854,340
+346,Do you feel full before you finish eating a normal size meal?,Nope.,603854,636
+348,Do you become more weak or tired with exertion?,Uh...no.,603854,9
+351,How often do you have palpitations?,Just started up again 2 days ago. I hadn't had any problems since they shocked me a year ago.,603854,541-42
+352,Is there any pattern to when your palpitations occur?,I don't know how to answer that. This just started up again recently.,603854,542-42
+353,Do you have shaking chills?,Uh...no.,603854,46
+355,What symptom is the most distressing for you?,"Oh, boy, the pain in my stomach.",603854,284
+356,"Do you have pain anywhere? If so, where?",My stomach sure is hurting... That's why I'm here!,603854,172
+360,Do you have difficulty breathing?,"I don't have difficulty breathing, I am feeling a little short of breath.",603854,545-19
+361,Are you short of breath?,I've only felt a little winded over the last hour.,603854,45
+366,Do you awaken at night short of breath?,No.,603854,93
+376,"What does the pain/discomfort in your chest feel like? (squeezing, pressure, crushing, burning, stabbing, aching, tingling, suffocating, tingling)",Why are you asking me that?  I don't have pain there.,615553,235-204
+384,When and what did you last eat?,I had some oatmeal this morning. Several hours before this started.,615553,264
+388,Do you need help from others in taking your own medications?,Uh.... why are you asking me this?,615553,1765
+400,Does the pain in your abdomen come and go?,"It is constant, but sometimes it sort of spikes worse if you know what I mean. Overall, it seems to be getting worse.",626373,238-200
+403,How quickly does the pain in your abdomen come on?,Pretty darn quickly.,626373,232-200
+406,Any change in the frequency of your bowel movements?,Nope.,626373,341
+438,Do you have a history of blood clots?,No.,626373,377
+439,Do you have a history of deep vein thrombosis or pulmonary embolism?,No.,626373,423
+449,Have you had difficulty in breathing like this before?,I don't have difficulty breathing ... I am feeling a little short of breath.,626373,242-19
+451,Is there any blood in your stools or with your bowel movement?,Red stuff? No. I haven't seen that in the toilet.,626373,171
+452,Do you have black tar-like or foul smelling stools?,No. Nothing black. I wouldn't say they are any stinkier than usual.,626373,286
+453,Do you have bloody diarrhea?,No,626373,134
+454,Is there any change in the shape of your stools?,I'm not sure I understand your question.,626373,278
+455,Have you had any yellowing of the skin or eyes (jaundice)?,Nope.,626373,545-34
+460,Do you avoid eating because you are worried about pain?,"Well, all I can say is I don't want to eat anything right now for sure.",626373,646
+465,Have you been having fevers?,No. ,626994,545-25
+465,"Have you had a fever in the past 24-48 hours? If so, how high of a fever and for how long?",No. ,KM,
+465,Any fevers recently?,No. ,KM,
+492,Do you have a family history of aortic aneurysm?,No.,626994,640
+499,Do you have an advance directive?,I'm not sure.,626994,1472
+515,Do you have an ulcer?,No.,626994,136
+518,Do you have any pain in your chest?,No,626994,230-204
+535,What are the events surrounding the start of your diarrhea?,I don't really have that problem.,626994,267-14
+536,When did your high blood pressure start?,I've been on medications for my blood pressure since I was 60.,626994,561-32
+538,Are you passing a lot of gas?,Why is that important?,626994,276
+540,When did your palpitations start?,This time around? Two days ago.,626994,561-42
+541,What are the events surrounding the start of your palpitations?,Just started up again 2 days ago. I hadn't had any problems since they shocked me a year ago.,626994,267-42
+542,Does anything make your palpitations better or worse?,I can't tell.,626994,244-42
+543,How severe are your palpitations?,Not that bad. It's just that I'm aware of it in the background.,626994,543-42
+544,Do you have any pain or other symptoms associated with your palpitations?,You mean besides the belly pain?,626994,598-42
+548,Do you have any bladder problems?,Uh...no.,626994,519
+549,Do you have any difficulty urinating?,Nope.,626994,1165
+552,Does your pain awaken you from sleep?,I haven't tried to sleep since it started.,626994,1237
+562,Do you have any pain in your back?,Uh...no.,626994,230-203
+572,Do you have nausea and/or vomiting?,Nauseated since the pain came. I've thrown up a few times too.,630657,545-39
+591,Does anyone in your family have problems with high blood pressure?,"My dad had a problem with it, and my mother does too.",630657,444-32
+597,Do you have a problem with fatigue/tiredness?,Nope.,630657,545-24
+604,When did the pain in your chest start?,That doesn't hurt.,630657,231-204
+614,Have you ever been hospitalized for symptoms like the ones you have now?,"I was in the hospital for that heart shock treatment. I don't know if this is the same problem, but I'm worried about the old ticker again, so please do!",630657,1434
+615,Does the pain get better when you bend forward or sit?,No.,630657,1183
+622,What do you think might be causing your symptoms?,I haven't any idea. Something bad is going on. I can tell you that for sure.,630734,1435
+623,Do you have night sweats?,No.,630734,545-41
+628,When was your last bowel movement?,Earlier today.,630734,1412
+638,What treatments have you had for your high blood pressure?,I've been on medications for my blood pressure since I was 60.,630734,590-32
+644,Have you had nausea and/or vomiting like this before?,Nothing like this.,630734,242-39
+645,How quickly does your nausea and/or vomiting come on?,Came on right after the pain started.,630734,603-39
+649,Can you tap out the pattern of your palpitations?,"No, it's more irregular than that.",630734,456
+657,Do your symptoms persist if you stop eating?,I don't know. I haven't eaten since this started.,630734,321
+673,Do you have a history of recent or current infectious disease?,Uh...no.,630734,1158
+737,Do you have pain/discomfort when you urinate?,Nope. No pain with that.,635407,545-20
+757,Is your pain relieved after a bowel movement?,No.,635879,317
+860,Do you have involuntary bowel movements?,Nope.,637069,277
+866,Do you have any pain or other symptoms associated with your nausea and/or vomiting?,The pain in my belly.,637069,598-39
+876,"Do your symptoms occur after eating rye, wheat, or barley?",No.,637530,319
+879,Do milk or dairy products worsen your symptoms?,No,637530,318
+890,How long does the pain in your abdomen last?,It hasn't let up since it started.,637530,1114
+910,Have you fallen?,Uh...no.,637530,1399
+912,Have you noticed swelling in any part of your body?,No.,637530,545-22
+914,"Have you gained or lost weight unintentionally, despite normal appetite and exercise?","No, but my wife thinks I am gaining weight and keeps trying to put me on a diet.",637530,309
+920,Do you have a history of an ulcer?,No.,637530,1188
+938,Do you eat raw or undercooked meat?,No,637530,52
+939,Do you consume untreated water or dairy products?,No,637530,51
+942,"Do you presently have heartburn, a food or acid taste in your mouth?",Uh...no.,637530,297
+948,"Have you self-induced vomiting, used laxatives, diuretics, or enemas to control your weight?",Uh...no.,637530,538
+954,Do you ever feel/have a problem with lightheadedness?,Nope.,637530,1678
+961,Do your palpitations keep you from sleeping?,"No, not at all.",637530,602-42
+962,How quickly do your palpitations come on?,Hard to say.,637530,603-42
+963,Have you had palpitations like this before?,"Yeah, but not since they shocked be about a year ago.",637530,242-42
+964,Do your palpitations come and go?,Generally not.,637530,604-42
+968,Does anyone in your family have palpitations?,Uh...no.,637530,444-42
+969,What treatments have you had for your palpitations?,"Well, they shocked me about a year ago.",637530,590-42
+976,Do you have chronic blood loss or a recent blood loss?,Uh...no.,637530,507
+980,Do you have a history of high lipids or triglycerides?,Nope.,637530,1137
+988,Have you recently taken any antibiotics?,No.,638646,103
+993,Do you have a history of atrial fibrillation?,Yes. They used electricity on my heart a year ago to straighten it out.,638646,694
+1003,Are you having or have you had unprotected sex?,No.,638646,112
+1025,Have you gained weight?,Nope.,638646,545-53
+1031,What are the events surrounding the start of your difficulty breathing?,I don't have difficulty breathing ... I am feeling a little short of breath.,638646,267-19
+1033,Does lying on one side or the other increase your shortness of breath?,Not that I know of.,638646,205
+1041,Have you been depressed?,Uh...no.,638646,545-13
+1042,"Have you been nervous, anxious or worried about something?",Uh...no.,638646,37
+1060,Where are you?,In the emergency room.,639389,564
+1095,"Have you been diagnosed with a clotting disorder? (terms like APS, APLS, Hughes)",No.,639389,629
+1096,Have you been diagnosed with a bleeding disorder?,Uh...no.,639389,628
+1099,Do you use injection (IV) drugs?,Uh...no.,639389,54
+1101,How many years have you been smoking?,"A good 50 years, now.",639389,256
+1104,Do you sit long hours at work?,I'm retired.,639389,1359
+1133,Where do you live?,My wife and I have a nice house close by.,639389,452
+1153,Are you unable to urinate?,No,639389,275
+1155,Do you have a history of a volvulus (twisted bowel)?,No.,639389,1127
+1156,Have you or any family member had a history of inflammatory bowel disease?,No,639389,643
+1157,Have you passed any stones in your urine?,No.,639389,1404
+1158,Have you or any family member had a history of kidney stones?,No.,639389,644
+1194,Have you ever been diagnosed with a hernia?,Nope.,639430,660
+1195,Do you or have you had diverticulosis or diverticulitis?,Nope.,639430,139
+1197,Do you now or have you had cancer?,Nope.,639430,195
+1232,Have you or do you use cocaine?,No,639430,656
+1241,Are you passing any clots?,I'm a guy!,639430,152
+1243,Have you been diagnosed with chronic mesenteric ischemia?,Uh...no.,639430,655
+1250,Do you feel confused at times?,No,639430,545-10
+1254,Do you have swollen lymph nodes?,Nope.,639430,545-47
+1255,"Are your swollen glands painful, tender, hard, or draining?",I don't have swollen glands.,639430,479
+1267,Does walking or standing for a long time bring on the pain?,No.,640013,1182
+1288,Do you regurgitate old food?,Nope.,640013,353
+1300,Does anything make your difficulty breathing better or worse?,I don't have difficulty breathing ... I am feeling a little short of breath.,640013,244-19
+1317,How long have you had loose stools?,Just the last one was loose.,640013,1371
+1326,Have you been exposed to any toxic substances or unusual chemicals?,Nope.,640013,425
+1342,What time is it?,hx.time-answer,640082,565
+1343,What happened?,I'm in a lot of pain.,640082,566
+1366,Is anyone in your family also suffering with nausea and/or vomiting?,Nope.,640082,444-39
+1380,Have you recently been hospitalized?,Last time I was in a hospital was for that heart shock thing about a year ago.,640082,1139
+1397,Do you take your medications with fluids?,Sure do.,640082,346
+1398,What time of day do you take your medicines?,In the morning.,640082,347
+1399,Do you take insulin for diabetes?,Uh...no.,640082,270
+1412,Do you have medical insurance?,Yup.,640082,1288
+1433,Have you ingested anything caustic?,Uh...no.,640082,693
+1470,Has there been a change in your urination frequency?,Nope.,640996,1164
+1472,Do you have any other symptoms with your fever?,That's not a problem for me.,640996,598-25
+1536,Can you describe the nature of the confusion or the types of memory loss?,I don't have that problem.,641547,1220
+1571,Have you or any family member had a history of colon polyps or colon cancer?,No,641547,638
+1574,Have you had any stenting procedures?,No. They said I wasn't bad enough off to need that yet.,641547,670
+1585,Any diet changes since your last appointment?,I don't know why you are asking me this.,641547,1306
+1596,"Do you feel unwell, not normal or just ""not yourself"" (malaise) lately?",Not really.,643114,1195
+1600,How much weight have you gained?,I don't have that problem.,643114,543-53
+1605,When did your cough start?,I haven't had that problem.,643114,561-12
+1613,Do you have a problem swallowing?,Uh...no.,643114,545-18
+1614,Do you leak urine (urinary incontinence)?,No,643114,545-51
+1627,Do you have any pain in your groin?,Nope.,643114,1254
+1630,Any problem moving your back?,Uh...no.,643114,228-203
+1631,Is there any stiffness in your back?,No,643114,551-203
+1645,Can you swallow pills?,Yeah.,643114,1367
+1651,Do you take ACE inhibitors?,I believe that's what lisinopril is. You better study up on your medications.,643114,298
+1659,Where were you born and where did you grow up?,In this country.,643114,142
+1660,What is your ancestry?,Do you really need to know that?,643114,673
+1664,How many diets have you been on in the last year?,None.,643114,539
+1665,"Have you recently eaten anything with MSG in it (e.g., Chinese food)?",Nope.,643114,1148
+1666,Have you been eating food prepared outside the home or from street vendors?,No.,643114,1208
+1668,When and what did you last drink?,This morning.  I had some juice.,643114,265
+1710,Is anyone who ate or drank the same things as you sick?,No,644045,448
+1743,Tell me how that makes you feel.,Bad!,644176,576
+1764,Do you have loose stools?,Uh...no.,644176,1612
+1770,Has there been any change in your shortness of breath over time?,"It just started one hour back, so I really can't say.",644176,1677
+1771,Is it hard to get a deep breath or exhale?,Neither.,644176,199
+1772,How severe is your difficulty breathing?,"I don't have difficulty breathing, I am feeling a little short of breath.",644176,543-19
+1775,What treatments have you had for your diarrhea?,I haven't had that problem.,644176,590-14
+1790,Have you recently had x-rays taken?,No,644176,1160
+1791,Have you recently received any IV or intra-arterial dye (such as for a CT scan or angiogram)?,"Not really recently, but last year when they had to shock me for that a-fib, they gave me some dye for testing my heart.",644176,1140
+1826,How severe is your high blood pressure?,"Well, I've been on medications for my blood pressure since I was 60.",644176,543-32
+1828,What is the color of your urine and has it changed recently?,Light yellow.  Seems normal as usual to me.,644176,339
+1830,Are you having any trouble with your vision?,No,644176,1416
+1831,Do you have any pelvic pain?,No,644176,230-273
+1832,How often does this abdominal pain occur?,Often? Like have I ever had stomach pain like this before?,644176,599-200
+1839,Do you have any skin problems?,No,644176,366
+1888,Any change in your thirst?,Like needing to drink more? No.,644307,532
+1891,Do you have or have you had a urinary tract infection?,Uh...no.,644307,671
+1897,What are the events surrounding the start of your testicular pain?,I really don't have pain.,644977,1269
+1906,Do you have any pain in your flanks?,Uh...no.,644977,230-270
+1911,When was the last time you saw blood in your stool or passed a tarry bowel movement?,That's not a problem for me.,644977,1202
+1924,Do you have a family history of heart disease?,Yes. My dad died of a heart attack.,644977,641
+1927,When did you first notice your change in weight?,I haven't had a change in weight.,644977,529
+1932,Have you ever been diagnosed with peripheral vascular disease?,Nope.,644977,668
+1957,Do you have greasy foul smelling stools?,Uh...no.,645303,674
+1961,When did you arrive in this country?,What? Why are you asking this?,645303,774
+1981,Do you feel anxious?,No.,645303,545-6
+2025,Are your stools unusually light in color?,Nope.,645303,626
+2026,Do you have any pain in your rectum?,Uh...no.,645303,230-274
+2029,How often do you feel that you need to move your bowels?,A couple times a day.,645303,290
+2030,Is there a pattern to your bowel movements?,Yes.  They seem normal to me.,645303,283
+2034,Do you have any problems walking?,No.,645303,545-27
+2121,Have you ever fainted?,Nope.,645482,486
+2259,What has been happening since your last visit?,This is my first visit.,645696,581
+2372,Have you changed your caffeine intake?,No.,647072,1145
+2384,Do you have any trouble with hot or cold environments?,No.,647072,127
+2385,Do you have a tremor?,No,647072,545-50
+2389,Have you recently experienced hot flashes?,Haven't you noticed? I'm a guy!,647072,123
+2390,Do you have episodes of excessive sweating?,No.,647072,2
+2391,Have you noticed any lumps in your neck or armpit?,Uh...no.,647072,1384
+2394,Have you had or been exposed to someone with hepatitis?,No,647072,428
+2406,Do you have pain when lifting?,I haven't tried since this started.,647483,647
+2433,Does your nausea and/or vomiting keep you from sleeping?,Just started this morning.,647483,602-39
+2448,Have you ever been told that you have a heart murmur or valve problem?,No.,647483,731
+2449,Have you been diagnosed with or have endocarditis?,No.,647483,637
+2453,Do you or have you had gastrointestinal cancers?,Uh...no.,647483,138
+2460,Have you ever had pancreatitis?,No.,647483,667
+2461,Have you ever been diagnosed with peritonitis?,Nope.,647483,683
+2591,Do you have a rash?,Nope.,647687,545-44
+2693,Has there been any change in your palpitations over time?,I don't know how to answer that. This just started up again recently. So I guess you could say that's a change.,647759,439-42
+2754,Have you lost weight?,No.,648283,545-54
+2814,Does the pain change with your period?,I'm a guy!,648447,220
+2840,How severe (1-10 scale) is the pain in your chest?,Why are you asking me that?  I don't have pain there.,648447,237-204
+2849,Does anything make your high blood pressure better or worse?,Not sure since I'm on medication for it.,648447,244-32
+2851,Have you had problems with high blood pressure before?,Not sure. It was just picked up by my doctor on a routine check-up.,648447,242-32
+2852,Has there been any change in your high blood pressure over time?,Not sure since I'm on medication for it.,648447,439-32
+2853,Does your problem with high blood pressure come and go?,Not sure since I'm on medication for it.,648447,604-32
+2860,Does anything make your diarrhea better or worse?,I don't really have that problem.,648447,244-14
+2983,Is your urine pink or red in color (blood in urine)?,Not that I've seen.,649499,545-30
+2987,Do you have a history of valvular heart disease?,No.,649499,1120
+3030,Have you recently fainted?,Nope.,649499,1674
+3032,Are you coughing up blood?,No,649499,545-31
+3071,Do you have asthma?,No.,649515,571
+3072,Do you have chronic obstructive pulmonary disease (COPD)?,No.,649515,424
+3075,"What cancer screening tests have you had, and what were the results?",Not sure that I've had those.,649515,620
+3140,Have you been diagnosed with a neurological problem(s)?,No,649673,454
+3146,Do you feel when you need to urinate that you need to urgently?,No,649673,691
+3324,How does this affect your life?,"Can't tell, yet.",650941,578
+3355,"How much blood did you see in your vomit (a teaspoon, cup, quart, etc.)?",I haven't vomited that.,650941,1198
+3387,Do you have a family history of sudden death?,Yeah. My dad. Heart attack.,650941,119
+3392,Have you ever felt you needed to cut down on your drinking?,Uh...no.,650941,1234
+3443,How many episodes of vomiting blood or coffee grounds did you have?,I haven't vomited that.,651022,1197
+3514,Do you have kidney problems?,Uh...no.,652068,117
+3527,Do you have a history of hemorrhoids?,Nope.,652068,1236
+3528,Do you ever leak urine without realizing it until later?,I don't really have that problem.,652068,516
+3534,Do you have any other symptoms associated with your fatigue/tiredness?,That's not a problem for me.,652068,598-24
+3558,"Do you prefer to stay at home, rather than going out and doing things?",No,652206,725
+3561,Have you recently been exercising vigorously?,Nope.,652206,688
+3565,Any change in your chest pain since it began?,Why are you asking me that?  I don't have pain there.,652206,241-204
+3579,Have you had any trauma to your head?,Uh...no.,652206,596-213
+3580,What does the pain in your head feel like?,That doesn't hurt.,652206,235-213
+3590,Do you have any pain in your leg(s)?,No.,652206,230-263
+3630,Do you have a history of an upper GI bleed?,Nope.,652612,1184
+3665,How did you injure yourself?,I didn't hurt myself.,652612,431
+3779,Do you feel dry or dehydrated or drained of moisture?,Uh...no.,653629,1378
+3860,Do you wheeze?,Uh...no.,653941,296
+4088,Do you have episodes of hiccups?,Nope.,657279,649
+4094,"Do you have any rectal bleeding, not associated with defecation?",Nope.,657279,1386
+4098,Are you basically satisfied with your life?,Yeah.,657279,732
+4110,Are you having any difficulty sleeping?,No.,657279,35
+4112,Do you bruise or bleed easily?,Uh...no.,657279,153
+4120,Is the amount you urinate more or less than usual?,It seems pretty normal to me.,657279,360
+4200,Do you have any pain in your shoulder(s)?,No.,657793,230-253
+4210,Have you recently had any mood or personality changes?,Uh...no.,657793,124
+4342,Have you noticed blurred vision?,No,659143,1134
+4487,Do you have low blood pressure?,No.,659470,1687
+4632,When and what were the results of your last prostate exam?,I don't know. Is that important right now? My stomach is killing me.,660005,1342
+4641,Are you using any form of birth control?,Nope.,660005,1222
+4669,Do you have arthritis?,No,660005,43
+4673,Have you ever been diagnosed with an autoimmune disease?,Nope.,660005,1117
+4674,"Have you ever been diagnosed with a blood disease (e.g., leukemia, amyloidosis)?",Nope.,660005,696
+4675,Do you have a history of endocrine disorders?,No,660005,1381
+4814,Have you had any sexually transmitted disease?,Uh...no.,663866,392
+4842,Do you have any pain in your genitals?,No.,663866,230-211
+4843,Have you had any trauma to your rectum?,Nope.,663866,596-274
+5002,Do you cough after swallowing?,Nope.,664432,342
+5005,Have you experienced nasal regurgitation?,No,664432,350
+5013,When is your incontinence worse?,Don't have that problem.,664432,523
+5015,Do you have to strain when defecating?,Nope.,664432,135
+5061,Do you use precautions to prevent the transmission of sexual diseases?,Yup.,664442,1302
+5075,Do your stools float or is it difficult to flush them?,No.,664442,634
+5105,"What cholesterol screening tests have you had, and what were the results?",I haven't had any tests like that.,664442,621
+5249,How much can you exercise before being short of breath?,"Usually, a fair amount.",665787,206
+5465,Have you been camping recently?,No.,667991,1394
+5681,Do you have any bruises?,Nope.,668159,1566
+5831,Do you have any pain in your jaw?,Nope.,668623,230-215
+5956,Do you have any pain in your arms?,No.,669040,230-259
+6202,Have you had shingles in the past?,Uh...no.,669928,1442
+6206,Have you had pneumonia recently?,Nope.,669928,1150
+6448,How much did you eat and drink?,"The last time I ate? Nothing out of the ordinary for me. I mean, I didn't have an excessive amount.",671369,266
+6490,Have you had any skin sores or change in color?,Uh...no.,671977,130
+6517,Are you having sexual intercourse?,That's private. What does that have to do with my stomach anyway?,671977,158
+6571,Any tingling or numbness in your legs?,No.,672105,227-263
+6572,Any tingling or numbness in your arms?,Nope.,672105,227-259
+6579,Do you have a chronic cough?,Uh...no.,672105,1101
+6660,"Do you have abdominal bloating, back pain, weight gain or mood change a few days before your period starts?",I'm a guy!,674117,155
+6662,Does the pain in your back radiate someplace else? Where?,I don't have pain there.,674117,236-203
+6758,What treatments have you had for your headache?,Don't have that problem.,674517,590-28
+6767,Do you have trouble lying in one position comfortably?,No.,674517,1358
+6770,Do you have any pain in your feet?,Nope.,674517,230-255
+6972,Do you have a history of an abdominal aortic aneurysm repair?,No.,675226,1185
+7028,Have you been more irritable or angry lately?,No.,676045,29
+7030,Have you ever experienced sudden intense dread or fright?,No,676045,178
+7112,Do you have a sense of fullness in your rectum?,Nope.,676653,1657
+7163,"Have you recently ingested any acetaminophen, herbal supplements, or wild mushrooms?",No,676653,426
+7334,Have you had the pain in your back before?,I don't have pain there.,677810,592-203
+7578,Do you have a history of Marfan syndrome?,Uh...no.,679592,1230
+7837,When did you last urinate?,Do you really need to know that?,680901,1414
+7877,Any change in the color of your feet or toes?,No.,680901,1372
+7962,Have you recently had any IV fluids or medications?,Uh...no.,681072,374
+7994,Have you had more pressure at work?,I'm retired.,681186,18
+8043,"Have you been feeling sad, depressed or hopeless? If so, how often do you feel this way?",No,681186,28
+8125,Does your difficulty breathing come and go?,I don't have difficulty breathing ... I am feeling a little short of breath.,682066,604-19
+8180,Do you hear gurgling noise when you swallow?,No,682066,352
+8190,Was there a popping sensation?,No.,682066,432
+8202,Do you have a problem remembering things?,No,682066,545-37
+8318,Have you been diagnosed with Crohn's disease?,Uh...no.,682774,633
+8323,Do you have a history of a lower GI bleed?,No,682774,1186
+8343,"Have you had your diphtheria, tetanus, and acellular pertussis vaccine?",Why do you need to know that?,682774,1751
+8344,"Have you had your diphtheria, tetanus vaccine?",Why do you need to know that?,682774,1752
+8345,Have you had your haemophilus influenzae type B vaccine?,Why do you need to know that?,682774,1753
+8346,Have you had your hepatitis A vaccine?,Why do you need to know that?,682774,1754
+8347,Have you had your hepatitis B vaccine?,Do you really need to know that?,682774,1755
+8354,What is your native language? How well do you understand English?,I understand you.,682774,1282
+8362,Have you recently been intoxicated?,Nope.,682774,689
+8380,Do you have adequate housing?,Yeah.,682774,1309
+8389,Do you have easy/adequate access to transportation necessary for daily living and healthcare needs?,Yeah.,682774,1293
+8390,Do you have easy/adequate access to stores with fresh produce?,Yes.,682774,1300
+8391,Do you have easy/adequate access to pharmacies for medications?,Yup.,682774,1301
+8393,Do you have more than one sexual partner?,No.,682774,25
+8394,Has your partner ever threatened to harm or kill you?,I don't know why you are asking me this.,682774,1576
+8395,Has your partner ever used physical violence against you?,Uh.... why are you asking me this?,682774,1577
+8414,Can you get out of bed without assistance?,Yes.,682774,1742
+8416,Do you use any special or built up chair for getting up from a chair?,No,682774,1772
+8417,Can you bathe and dress yourself without assistance?,Yup.,682774,1743
+8418,Do you have insomnia?,Nope.,682774,545-33
+8419,Do you snore?,Nope.,682774,1519
+8442,Have you noticed any pus in your urine?,Uh...no.,682774,587
+8444,Have you had your zoster vaccine?,Why do you need to know that?,682774,1764
+8446,Have you been exposed to mosquitoes or ticks? Any bites?,Nope.,682774,53
+8448,When did your fatigue /tiredness start?,That's not a problem for me.,682774,561-24
+8456,Do you have the sensation of incomplete bowel emptying?,Uh...no.,682774,288
+8457,Is there a sensation of rectal pressure with urge to defecate and pass small amount of feces?,No,682774,174
+8462,Did you develop a sharp pain with the passage of a large or hard stool?,Uh...no.,682774,169
+8511,Do you have any skin itching or burning?,No,682774,430
+8517,Do you have the sensation of needing to urinate more often?,No.,682774,361
+8519,When did your difficulty urinating start?,That's not a problem for me.,682774,1659
+8520,Is it hard to start urinating or peeing?,No.,682774,690
+8521,When you urinate do you feel that you cannot completely empty your bladder?,No,682774,520
+8553,What are the events surrounding the start of your chest pain?,I don't have pain there.,682774,600-204
+8554,Is your chest pain precipitated by exercise?,That doesn't hurt.,682774,1410
+8555,Is the chest pain worse with deep inspiration?,Uh...no.,682774,1438
+8558,Does the pain in your chest radiate someplace else? Where?,I don't have pain there.,682774,236-204
+8559,Do you have ear pain?,No.,682774,230-205
+8562,Do you have any pain in your neck?,No.,682774,230-219
+8577,Have you had the pain in your chest before?,That doesn't hurt.,682774,592-204
+8587,Have you had jaundice before?,Nope.,682774,242-34
+8599,Do you have any pain in your teeth?,Uh...no.,682774,230-222
+8760,Have you had any trauma to your back?,No.,683021,596-203
+8761,What treatments have you had for the pain in your back?,That doesn't hurt.,683021,593-203
+8801,"Do you have sex with men, women, or both?",I'm heterosexual.,683188,533
+9119,Do you get up to urinate frequently during the night?,Nope.,684880,101
+9133,Are you eating just before going to bed?,No.,685773,1357
+9182,Are you now or have you ever been anemic?,Uh...no.,685773,417
+9217,How many episodes of bright red blood or melena in your stool did you have?,I don't really have that problem.,686177,1200
+9286,Have you had diarrhea problems like this before?,No.,686177,242-14
+9287,Does your diarrhea come and go?,I haven't had that problem.,686177,604-14
+9357,"Do you have new weakness in an arm, leg or your face?",No.,686192,1112
+9388,What treatments have you had for the pain in your chest?,I don't have pain there.,686323,593-204
+9574,Do you feel like you must rush when you need to move your bowels?,No.,686700,639
+9885,Do you have any pain or other symptoms associated with your cough?,I don't have that problem.,687163,598-12
+9886,Do you have any pain or other symptoms associated with your walking problems?,Don't have that problem.,687163,598-27
+9893,Does the pain in your back come and go?,That doesn't hurt.,688043,238-203
+10245,Have you lost vision?,No.,689812,1163
+10274,Do you have blood in your semen?,No.,689812,699
+10283,Is your fatigue unrelated to physical effort?,I'm not fatigued.,689812,13
+10548,How severe (1-10 scale) is the pain in your leg(s)?,Why are you asking me that?  I don't have pain there.,692424,237-263
+10698,Does anything make your testicular pain better or worse?,I don't have pain.,692939,1271
+10725,Are you hungry and eating more than usual?,Uh...no.,693165,582
+10755,Do you have ringing in your ears?,Uh...no.,693165,545-49
+10910,When did your fever start?,I don't have that problem.,693937,561-25
+10941,When did you first notice the bright red blood or black stool?,Uh.... why are you asking me this?,694017,1611
+11086,Are you exposed to second hand smoke?,Nope.,694514,1292
+11101,How long does your chest pain last?,That doesn't hurt.,694514,1191
+11114,How much weight have you lost?,I haven't had that problem.,694514,543-54
+11115,What are the events surrounding the start of your problem with weight loss?,I haven't had that problem.,694514,267-54
+11118,Are you sleepy during the day?,Uh...no.,694514,1166
+11165,Have you been diagnosed with Lyme disease? ,No,694548,1216
+11166,Have you had polio?,Nope.,694548,443
+11174,"Have you ever lived in a homeless shelter, detention center or prison?",Nope.,694548,55
+11183,Have you ever been annoyed at anyone for suggesting that you cut back on your alcohol consumption?,No,694548,23
+11185,Do you need an alcoholic drink first thing in the morning?,Uh...no.,694548,22
+11213,Do you have persistent bad breath?,Nope.,694548,305
+11386,Do you have any pain or other symptoms associated with your difficulty breathing?,I don't have difficulty breathing ... I am feeling a little short of breath.,696580,598-19
+11538,Is there any pattern to when you have difficulty breathing?,I don't have difficulty breathing ... I am feeling a little short of breath.,697191,542-19
+11950,Does your fatigue/tiredness come and go?,That's not a problem for me.,698370,604-24
+12169,What are the events surrounding the start of your facial pain?,I don't have pain there.,698725,600-207
+12277,Have you had tuberculosis?,Nope.,698733,376
+12318,How often do you have problems with constipation?,I haven't had that problem.,698733,541-11
+12422,Have you been stung by bees or wasps?,No.,699425,548
+12440,Were you a colicky baby?,Nope.,699425,1190
+13118,Do you have inflammation in one or more joints?,No,701391,1389
+13303,How severe is your abnormal vaginal bleeding?,Why are you asking me? I'm a guy!,701890,543-1
+13877,Is there a family history of sickle cell disease?,No,703838,1162
+13891,How severe (1-10 scale) is your testicular pain?,I don't have pain.,703879,1276
+13909,Did you lose control of your bladder when you fainted?,I haven't fainted.,704028,1219
+13912,Does anything make your fatigue/tiredness better or worse?,I don't have that problem.,704028,244-24
+13916,When did your problem with weight gain start?,I don't have that problem.,704028,561-53
+13961,Have you had chemotherapy treatment?,Nope.,704028,348
+13964,Have you ever had dialysis of any kind?,No.,704028,682
+13966,Have you ever had hormone replacement therapy?,Nope.,704028,1397
+13967,Have you ever participated in a sleep study?,No.,704028,1398
+13971,Has anyone suggested that you should reduce the amount of alcohol you drink?,Nope.,704028,21
+14336,"Did you have a cough, runny nose, and red eyes before this rash?",I don't have a rash.,706145,464
+14338,Do you have postnasal drip?,No,706145,295
+14367,Do you have any breast lump or discharge?,No.,706145,481
+14502,Have you lost interest in or avoided social activities?,Nope.,706469,30
+14658,Do you sometimes have trouble remembering things or finding the right names or words?,No,706762,437
+14661,Do you have any pain or other symptoms associated with your problems swallowing?,Don't have that problem.,706762,598-18
+14787,Do you have any pain or other symptoms associated with your diarrhea?,That's not a problem for me.,707380,598-14
+14988,Has there been any change in your difficulty breathing over time?,I don't have difficulty breathing ... I am feeling a little short of breath.,707543,439-19
+15256,How severe is your diarrhea?,I haven't had that problem.,707964,543-14
+15521,What was your allergic reaction?,Don't have that problem.,708211,605
+15579,Has there been any change in your pain/discomfort with urination over time?,I haven't had that problem.,708252,439-20
+15791,Were there any complications with your birth?,Nope.,708326,397
+15806,Does increasing your fiber intake improve your constipation?,I don't have constipation.,708326,293
+15867,"Are you eating too little or too much? If so, how often are you doing this?",Uh...no.,708349,700
+16089,"Have you ever had a blood transfusion? If so, when?",Nope.,708510,427
+16659,"Are you having trouble concentrating or making decisions well? If so, how often?",Nope.,708893,32
+16809,How severe (1-10 scale) is your headache?,That's not a problem for me.,708938,543-28
+17127,What treatments have you had for your fever?,That's not a problem for me.,709131,590-25
+17128,Does your fever come and go?,I don't have that problem.,709131,604-25
+17533,Does anything make your dizziness better or worse?,I haven't had that problem.,709592,244-16
+18033,Is your pain/discomfort worse at the start or end of urination?,I don't have pain when urinating.,709955,364
+18325,Do you feel as if you are smothering or suffocating?,Uh...no.,710170,200
+18860,Are you drooling?,Nope.,710761,472
+18879,Any problem moving your neck?,No.,710761,228-219
+18881,Do you need to clear your throat frequently?,Uh...no.,710761,300
+19938,Do you have a new wound?,Nope.,711725,1626
+19998,Are you taking steroids?,No.,711775,349
+20115,Do you have new or multiple sexual partners with similar symptoms?,Nope.,711803,676
+20198,Do you have any pain in your face?,Nope.,711940,230-207
+20348,Are you coughing up any sputum?,Uh...no.,712140,294
+20478,Have you consumed any hot beverages?,No.,712253,1395
+20520,What triggers your feelings of anger or irritation?,I haven't had that problem.,712253,771
+20534,Have you ever been evaluated for Celiac disease?,No,712253,1396
+20537,Have you ever been diagnosed with malabsorption?,No,712253,664
+20543,Do you have a history of vasculitis?,No,712253,654
+20830,Do you have feelings of guilt or hopelessness?,No,712469,91
+20994,When did your lightheadedness start?,I haven't had that problem.,712680,1682
+21002,Do you perform breast self examination?,I'm a guy!,712680,617
+21003,Have you ever had a Pap smear?,Why are you asking me? I'm a guy!,712680,1420
+21325,Do you wear dentures? Are the dentures comfortable?,No.,713103,1738
+21345,When did you first notice the blood in your urine?,Don't have that problem.,713103,561-30
+21640,Have you had constipation problems like this before?,No,713602,242-11
+21828,How quickly did the lump appear - gradual or sudden?,I don't have a lump.,714069,218
+21878,How often and at what times do you wake up at night?,I don't usually wake up.  I sleep pretty well.,714069,70
+21882,How often do you have difficulty breathing?,I don't have difficulty breathing ... I am feeling a little short of breath.,714069,541-19
+22160,At what age did your periods begin?,I'm a guy!,714254,107
+22173,Do you or any family members have problems with bullying?,No,714254,1303
+22174,Are you able to get free of responsibilities so that you can go to clinic appointments?,Yes.,714254,1308
+22175,"Do the places where you get medical help (pharmacy, other clinics) provide the language translation you need?",Why are you asking me this?,714254,1283
+22177,Can you afford the co-pays for your clinic visits and medications?,Yup.,714254,1307
+22180,What community resources do you have access to that can provide assistance?,I don't know why you are asking me this.,714254,1299
+22182,Have you had intimate contact including kissing with others?,Uh..why do you need to know that?,714254,1177
+22185,Please explain why you are seeking asylum.,Why are you asking me this?,714254,784
+22186,What would happen to you if you returned to your home country?,This is my country!,714254,772
+22188,Has your partner ever threatened or assaulted you with any weapon (including knives and/or other objects)?,What? Why are you asking this?,714254,1579
+22191,Does your partner control your access to money?,I don't know why you are asking me this.,714254,1585
+22464,Do you have any other symptoms associated with your weight gain?,I don't have that problem.,714476,598-53
+22696,Do these unusual sounds pulse in time with your heartbeat?,I don't hear unusual sounds.,714700,504
+23110,When did your problem with weight loss start?,Don't have that problem.,715137,561-54
+23163,Has anyone suffered from migraines in your family?,No.,715137,1128
+23233,How quickly does your difficulty breathing come on?,I don't have difficulty breathing ... I am feeling a little short of breath.,715165,603-19
+23309,Have you ever had radiation therapy?,Nope.,715185,1698
+23328,Does anyone in your family have anemia?,Nope.,715185,1113
+23337,Do you chew your food well?,Yes.,715185,1351
+23338,Do you eat your food quickly?,No.,715185,1346
+23537,Any tingling or numbness in your feet?,No.,715478,227-255
+23982,Have you had any trauma to your chest?,Nope.,716044,596-204
+24334,Does anyone in your family have similar problems with memory loss?,Uh...no.,716414,444-37
+24349,Do you have emphysema?,No,716414,627
+24353,Do you have a history of cirrhosis?,Uh...no.,716414,1142
+24368,Have you dropped many of your activities and interests?,Uh...no.,716414,719
+24395,Have you been exposed to asbestos?,Nope.,716414,1408
+24636,Do you ever have withdrawal symptoms if you don't drink for a day or two? Feeling shaky or jittery?,Nope.,717512,1228
+24997,Do you have any pain or any other symptoms associated with your runny nose/nasal congestion?,I haven't had that problem.,718569,1705
+25219,Is there any pus in your sputum? How much?,Nope.,719242,421
+25489,Do you have new headaches that you have not experienced previously?,No.,721218,1116
+25512,What treatments have you had for your difficulty breathing?,I don't have difficulty breathing ... I am feeling a little short of breath.,721218,590-19
+25738,Have you ever been exposed to poison ivy/oak/sumac?,No.,722535,1374
+26040,Have you noticed any passage of worms in your stool?,Uh...no.,722870,1227
+26359,Do you feel guilty about the amount of alcohol you drink?,Nope.,725237,24
+26577,Have you recently lifted something heavy or used your back in unusual ways or postures?,Nope.,725817,1176
+26991,Do you awaken at night coughing?,Nope.,727998,95
+26993,How often do you check your blood sugar?,Why would I need to do that?,727998,1617
+27458,Do you have a history of ulcers inside your mouth?,Uh...no.,730860,630
+27693,How long does your back pain last?,Why are you asking me that?  I don't have pain there.,732203,1161
+27750,Where more precisely is the pain in your chest?,I don't have any pain.,733017,1332
+27953,Is it difficult for you to participate in all or only specific activities?,I haven't had that problem.,733105,441
+27971,How often does your knee pain occur?,That doesn't hurt.,733112,599-257
+28060,"Are you moving or speaking slowly or fidgeting and restless? If so, how often?",No,733185,705
+28086,Do you have HIV?,Uh...no.,733185,137
+28087,Have you been previously diagnosed with an immunodeficiency?,Uh...no.,733185,1207
+28095,Have you ever been diagnosed with some kind of phlebitis?,Uh...no.,733185,680
+28559,Does your cough keep you from sleeping?,I haven't had that problem.,734121,602-12
+28561,Do you take anything to help you sleep?,No,734121,86
+29392,What does the pain in your arm(s) feel like?,Why are you asking me that?  I don't have pain there.,736064,235-259
+29672,Does passage of a stool feel like being cut by glass?,No,736639,170
+29742,What does your groin pain feel like?,I really don't have pain.,736992,1255
+29859,Do you have any pets?,Uh...no.,738396,466
+30190,What time do you get up on weekdays? On weekends?,About the same time. Around 6 or 7 every day.,741044,73
+30191,How do you identify yourself in terms of gender?,I don't know why you are asking me this.,741044,753
+30194,Has there been any change in your sex drive recently?,Uh..why do you need to know that?,741044,1178
+30218,Do you have a history of cystic fibrosis?,Uh...no.,741044,657
+30219,Have you been exposed to tuberculosis?,No,741044,686
+30715,Do you have hearing loss?,Uh...no.,743368,545-29
+30799,What are the events surrounding the start of your fever?,Don't have that problem.,743676,267-25
+30817,When did your problem with constipation start?,I don't have that problem.,743676,561-11
+30830,When did your jaundice start?,I haven't had that problem.,743676,561-34
+30831,What are the events surrounding the start of your jaundice?,I don't really have that problem.,743676,267-34
+30832,Does anything make your jaundice better or worse?,That's not a problem for me.,743676,244-34
+30851,Does anything make the pain in your chest better or worse?,I don't have pain there.,743676,234-204
+30865,Have you ever had hives?,No,743676,1418
+30938,How severe is your pain/discomfort with urination?,I haven't had that problem.,743886,543-20
+31176,Do you have difficulty keeping your balance?,No,744555,399
+31194,How often do you have problems with dizziness?,That's not a problem for me.,744555,541-16
+31756,Have you felt any itching around the anus?,Uh...no.,745822,1235
+31984,Do you have double vision?,Uh...no.,746880,562
+32416,Do you always wear seat belts?,Yup.,747704,623
+32537,Have you ever lived in SE Asia or Africa?,Nope.,748492,631
+33285,How severe (1-10 scale) is your pelvic pain?,I don't have pain there.,751434,237-273
+33975,Does anything make the pain in your back better or worse?,I don't have pain there.,752491,234-203
+34806,Has anyone ever told you that you stop breathing or choke while you are sleeping?,No,753515,97
+34958,Is the pain in your back superficial (on the surface) or deep inside?,That doesn't hurt.,753881,597-203
+34973,Have you had a recent skin infection or cellulitis?,No,753881,1157
+35131,Have you had weight loss problems like this before?,No,754033,242-54
+35168,Is there any stiffness in your legs?,No,754033,551-263
+35170,"Have you lost interest in things that used to give you pleasure? If so, how often do you feel this way?",Uh...no.,754033,33
+35171,How would you describe your moods?,Pretty good.  I don't think that's my problem.,754033,27
+35248,Has there been any change in your visual disturbances over time?,That's not a problem for me.,754068,439-15
+35677,Has there been any change in your diarrhea over time?,I don't really have that problem.,755230,439-14
+35799,Was your face sweating?,Nope.,755427,1125
+35867,Have you recently been to high altitude?,No,755445,546
+35868,Have you recently been in a cold environment?,No.,755445,547
+36004,Do you have any pain or other symptoms associated with your constipation?,I haven't had that problem.,755491,598-11
+36316,When did your fainting problem start?,That's not a problem for me.,756285,561-48
+36368,Do you know how to check your blood sugar?,Yes.,756285,1616
+37743,How severe is your constipation?,That's not a problem for me.,759816,543-11
+38265,Any tingling or numbness in your fingers?,No,762436,227-208
+38563,Does your testicular pain radiate someplace else? Where?,I don't have any pain.,763210,1275
+38749,Have you had your varicella vaccine?,Do you really need to know that?,763956,1763
+38793,Do you ever engage in binge eating?,Uh...no.,763956,537
+39561,Any tingling or numbness in your toes?,Nope.,765994,227-224
+39563,Is there any stiffness in your toes?,No.,765994,551-224
+39586,"Do you wish you were not alive anymore or fell asleep and didn't wake up? If so, how often have you had these thoughts?",No,765994,711
+39587,Have you experienced the death of a close friend or relative?,No.,765994,19
+39597,Do you have any pain in your eyes?,Uh...no.,765994,230-206
+39882,Do you have dry mouth or eyes?,Uh...no.,766467,484
+39948,Has there been any change in your fatigue/tiredness over time?,I don't have that problem.,766947,439-24
+40368,Do you awaken frequently from sleep?,Nope.,769092,65
+40904,Are you in good spirits most of the time?,Yup.,772529,733
+41095,Have you fallen before?,I don't know why you are asking me this.,774633,1565
+41558,What does your sputum look like?,Seems pretty normal to me.,777076,1407
+41913,Do you have pneumonia now or have you had recurrent pneumonias?,No,779241,418
+42403,Any problem moving your legs?,Nope.,780741,228-263
+43927,Have you noticed any bleeding from your gums?,No,786843,1203
+45008,Have you had a fever like this before?,Uh...no.,790036,242-25
+45148,How severe (1-10 scale) is your mouth pain?,I don't have pain there.,790539,237-218
+45497,Does anyone in your family have anxiety?,No,791240,444-6
+45499,Does anyone in your family have similar problems with weakness?,No.,791240,444-38
+45702,Has there been any change in your ability to accomplish familiar tasks?,Uh...no.,792107,438
+47367,Have you ever been told that you exercise too much?,Nope.,800076,115
+50454,How severe (1-10 scale) is your flank pain?,Why are you asking me that?  I don't have pain there.,808291,237-270
+51104,Does anything make your swelling problem better or worse?,I haven't had that problem.,812577,244-22
+51851,Does looking up or looking down aggravate your dizziness?,I haven't felt dizzy.,819611,1109
+52549,Do you have a burning feeling in your throat at night or morning?,No,825368,304
+53134,Do you have any lesions in your mouth?,Nope.,828004,1213
+53880,Have you noticed a decline in your thinking?,No,831871,398
+54623,Can you afford the diet or activities recommended by your healthcare provider?,Yes.,834003,1296
+58535,How severe (1-10 scale) is the pain in your knee(s)?,Why are you asking me that?  I don't have pain there.,846831,237-257
+58569,Do you have frothy urine?,Uh...no.,846831,379
+58627,Have you noticed any trouble with your speech?,Uh...no.,846949,1110
+59697,What are the events surrounding the start of your cough?,Don't have that problem.,850083,267-12
+59699,Do you have any pain or other symptoms associated with your weakness?,Don't have that problem.,850083,598-38
+60107,Is there pain at the site of the lump?,I don't have a lump.,850356,219
+60535,Does the pain in your head radiate someplace else? Where?,That doesn't hurt.,851322,236-213
+62152,Have you had confusion like this before?,Uh...no.,858592,242-10
+62161,Do you feel upset when you experience things that remind you of what happened to you? For how long?,Nope.,858734,737
+63683,Do you have a problem with your breast?,Uh...no.,864522,545-8
+65581,Is there any stiffness in your shoulders?,Uh...no.,870174,551-253
+65760,Can you describe a typical night's sleep?,Seems pretty normal to me.,870411,453
+66286,What are the events surrounding the start of your pelvic pain?,Why are you asking me that?  I don't have pain there.,870932,600-273
+68229,Have you recently had an indwelling venous catheter?,Uh...no.,874293,436
+68450,Do you have more difficulty swallowing solids or liquids?,They're about the same.  I don't have a problem with either.,874633,344
+69505,Do you have a history of polymyalgia rheumatica?,No.,875682,1144
+70935,When did you last feel lightheaded?,I haven't had that problem.,877600,1681
+72151,Have you been bitten by a spider?,Uh...no.,879381,1656
+72152,Have you been bitten by a snake?,No.,879381,373
+72264,Has there been any change in your constipation over time?,I don't have that problem.,879478,439-11
+72365,Does your child go to day care?,What? Why are you asking this?,879542,1392
+72388,Have you had weight gain problems like this before?,Nope.,879683,242-53
+72590,Do you get sick leave?,Why do you need to know that?,879704,1294
+72595,At what age did you become sexually active?,Do you really need to know that?,879704,678
+72597,How often are you having intercourse?,Why do you need to know that?,879704,615
+72599,Do you think you might have any sexual problems?,No.,879704,31
+72601,Do you have pain with intercourse?,Nope.,879704,176
+72602,Do you engage in anal intercourse?,Nope.,879704,323
+72604,Do you perform or receive oral sex?,Nope.,879704,477
+72606,Have you recently started taking birth control pills?,I don't take those.,879704,159
+72609,Is your partner unemployed?,I don't know why you are asking me this.,879704,1588
+72610,Does your partner have mental health problems (including undiagnosed conditions) and/or depression?,Uh.... why are you asking me this?,879704,1589
+72611,Has there been a recent separation from your partner (in the last 12 months) or is one imminent?,Why are you asking me this?,879704,1586
+72613,Does your partner have a problem with substance abuse such as alcohol or other drugs?,What? Why are you asking this?,879704,1590
+72614,"Is your partner currently on bail or parole, or has served a time of imprisonment or has recently been released from custody in relation to offences of violence?",Uh.... why are you asking me this?,879704,1592
+72615,"Has your partner ever done things to you, of a sexual nature, that made you feel bad or physically hurt you?",Uh.... why are you asking me this?,879704,1599
+72664,Do you feel more fatigued/tired in the morning?,I don't feel tired.,879704,36
+72690,Can you describe a specific episode of anxiety?,I haven't had that problem.,879704,190
+72692,"Does your anxiety come on suddenly, then peak quickly and end within minutes?",I don't have anxiety.,879704,188
+72693,Are you afraid of being embarrassed or humiliated?,No,879704,189
+72694,Do you feel better on the weekends?,Nope.,879704,14
+74525,What are the events surrounding the start of your fatigue/tiredness?,I don't have that problem.,881215,267-24
+74666,Have you had a recent urinary catheter?,Uh...no.,881248,269
+74742,Do you feel your muscles are tense?,No,881248,1180
+75714,Does anyone in your family have diarrhea?,hx.reached-limit.adult-normal,882764,444-14
+75850,Does a change in your position provoke lightheadedness?,What? Why are you asking this?,882828,1679
+77548,Do you have a previous history of severe hypoglycemia?,No,884385,1217
+77586,Does your chest pain get better with rest?,That doesn't hurt.,884458,1409
+79348,Is your hearing loss the same in both ears?,I don't have hearing loss.,886209,404
+79349,Do you have any pain or other symptoms associated with your hearing loss?,I don't have that problem.,886209,598-29
+79364,How severe is your sore throat?,I don't really have that problem.,886209,543-46
+79797,Are you able to have a bowel movement without using a laxative?,Yeah.,886486,292
+79800,How long does your headache last?,I don't have a headache.,886486,1122
+79852,Does anything make the pain in your feet better or worse?,I don't have pain there.,886492,234-255
+81029,Do you have any pain in your hips?,Nope.,887409,230-256
+81737,Do you have any other symptoms associated with your weight loss?,I haven't had that problem.,888157,598-54
+82195,Have you had a similar difficulty urinating before?,Don't have that problem.,888902,1229
+82266,Do you feel a lack of coordination?,No,888902,1121
+82682,Do you regularly use soap and water to wash your hands before each meal?,Yup.,889196,1231
+82700,"Have you ever suffered from painful priapism, an unwanted erection lasting more than four hours?",Uh...no.,889393,1159
+82701,"Do your erections take longer to achieve, have shorter duration or less rigidity?",No,889393,383
+82702,Do you have painful bending of your penis with erection?,Nope.,889393,384
+83131,Do you now or have ever been diagnosed with H. pylori infection?,No.,891239,648
+83620,When did the pain in your jaw start?,Why are you asking me that?  I don't have pain there.,892628,231-215
+84058,Have you been exerting yourself in the heat?,Uh...no.,893148,56
+84082,What treatments have you had for your constipation?,That's not a problem for me.,893148,590-11
+84863,Does anyone in your family have a similar cough?,No.,894551,444-12
+84879,When did your pain/discomfort with urination start?,I don't have that problem.,894645,561-20
+85304,How severe (1-10 scale) is the pain in your feet?,That doesn't hurt.,895774,237-255
+85507,Do you regularly wash your hands with soap and water after using the restroom?,Yeah.,896503,1232
+85551,"Do your fainting episodes occur after coughing, urinating, defecating, or swallowing?",I haven't fainted.,896796,498
+85637,What are the events surrounding the start of your bloody urine?,Don't have that problem.,896844,267-30
+86163,What are the events surrounding the start of your problem with weight gain ?,I haven't had that problem.,897949,267-53
+86342,Have you ever been diagnosed with hyperparathyroidism?,No,898045,662
+87941,Does the pain in your arm(s) radiate someplace else? Where?,Why are you asking me that?  I don't have pain there.,899892,236-259
+88069,Are you having any problems with facial expressions?,Nope.,900599,228-207
+88089,Have you ever been diagnosed with syphilis?,Uh...no.,900599,1133
+88280,Is the pain in your chest superficial (on the surface) or deep inside?,I don't have pain there.,900798,597-204
+88568,Have you ever had genital sores?,Nope.,901242,41
+88569,Do you have difficulty retracting your foreskin?,Uh...no.,901242,385
+88767,Do you have excessive facial hair or acne?,Nope.,902135,126
+89548,When did your testicular pain start?,I don't have pain.,904688,1268
+89608,"If you wake in the middle of the night, are you able to fall asleep again?",I haven't had that problem.,904732,1423
+89807,Do you have contact with farm or exotic animals?,Uh...no.,905232,1204
+90807,Have you had pain in your arm(s) before?,I don't have pain there.,908269,592-259
+91106,Do you tend to get the headaches when you are only in one location?,I don't have a headache.,909167,1170
+91856,When did your problem with weakness start?,I don't really have that problem.,910829,561-38
+92039,Have you been bitten by a dog or other animal?,No.,911224,1171
+92041,Have you been exploring caves or had exposure to bats?,Nope.,911224,1172
+92047,Have you ever been evaluated for fainting?,No,911224,1673
+92048,Were you nauseated before you lost consciousness?,I haven't fainted.,911224,1209
+92050,Can you describe what you were doing when you fainted?,I haven't fainted.,911224,487
+92051,What did witnesses tell you they observed when you fainted?,I haven't fainted.,911224,488
+92052,Do you sweat before you faint?,I haven't fainted.,911224,495
+92053,Did you have a sense of deja vu before you fainted?,I haven't fainted.,911224,490
+92054,Is your fainting associated with fear or intense emotion?,I haven't fainted.,911224,491
+92056,Were you short of breath just before you fainted?,I haven't fainted.,911224,494
+92057,Do you pass out with changes in position?,No,911224,497
+92093,Do you have a family history of osteoporosis?,Uh...no.,911224,1175
+94035,Where more precisely is the pain in your back?,Why are you asking me that?  I don't have pain there.,915798,1154
+94450,Do you chew sugarless gum?,No,916868,320
+94690,"Do you have any problems with your feet? If so, can you please describe?",No,918845,1345
+94725,Do you wear glasses or contacts?,Why do you need to know that?,918845,1391
+97034,Do any foods seem to bring the headaches on?,I don't have that problem.,924131,1194
+98239,Any problem moving your mouth?,Nope.,927581,228-218
+98689,Have you had any trauma to your pelvis?,No,929272,596-273
+98892,Do you spend most of your time in bed?,Nope.,929421,524
+100030,Do you have any genital sores or discharge?,Nope.,933726,482
+100994,What are the events surrounding the start of your problem with constipation?,I don't really have that problem.,936864,267-11
+102340,When did your urinary incontinence start?,I haven't had that problem.,940795,561-51
+102883,Do you have any other symptoms associated with your chest pain?,No.,941547,1445
+102885,Is there a pattern to your chest pain?,That doesn't hurt.,941547,233-204
+102963,How often do you have problems with swelling?,I haven't had that problem.,941698,541-22
+103064,How safe is your community? Are there guns and gangs you worry about?,It's not a problem.,941872,1298
+104057,Are you color blind?,No.,945840,1696
+104798,How often do you have diarrhea like this?,Don't have that problem.,948753,541-14
+105936,What are the events surrounding the start of your back pain?,Why are you asking me that?  I don't have pain there.,955860,600-203
+105941,What does your flank pain feel like?,That doesn't hurt.,955860,235-270
+106070,Did most of your friends develop breasts and pubic hair before you?,No,956124,113
+106071,Are most of your friends of the same age taller or shorter than you?,About my height.,956124,114
+106075,When did your sore throat start?,I don't really have that problem.,956124,561-46
+106946,Do you have hip or buttock cramps when walking?,No,964606,556
+107172,Is your rash painful or itchy?,I don't have a rash.,966006,467
+107997,What parts of your body did you hurt when you fell?,hx.reached-limit.adult-normal,969128,1564
+108661,What treatments have you had for your weight gain problem?,I haven't had that problem.,971391,590-53
+109102,When did your dizziness start?,I haven't had that problem.,974626,561-16
+109497,Do you have a history of esophageal varices?,Nope.,975105,1189
+109986,Tell me about your boyfriends and girlfriends.,There's not much to tell really.,975581,708
+110058,Do you think about or feel like hurting others?,No.,975581,1347
+110303,Have you had to deal with discrimination?,Uh...no.,975867,1304
+111041,Have you had your meningococcal vaccine?,Uh..why do you need to know that?,977496,1759
+111217,Do you have any sensitivity to light?,No,977766,403
+111772,Do you ever hear speech but cannot understand it?,No,978589,409
+111796,Do you have an erection when you wake up from sleep?,Uh...no.,978589,1383
+112909,Do you have any pain in your mouth?,Nope.,980088,230-218
+113131,Do you have difficulties performing intercourse with your partner?,No.,980131,381
+113142,Have you had gout?,No.,980131,416
+113639,Are you right or left handed?,I don't know why you are asking me this.,980429,1375
+113740,Do loud noises bother you?,Not really.,980484,407
+113741,Are your eyes red and/or irritated?,Uh...no.,980484,1123
+114983,Do you engage in vaginal douching?,Why are you asking me? I'm a guy!,981137,698
+115273,Have you recently had pharyngitis?,Uh...no.,981282,1168
+115700,Do you have headaches at night?,Uh...no.,981665,102
+115947,Have you had a history of migraines?,No,981846,1382
+117351,Does anything make your constipation better or worse?,I haven't had that problem.,982869,244-11
+117357,Does anyone in your family have problems with constipation?,No.,982869,444-11
+118478,Does your headache pulsate?,I don't have a headache.,984924,1364
+119300,Do you have difficulty waking up?,Uh...no.,986558,1388
+119995,Do you have abnormal vaginal bleeding?,Why are you asking me? I'm a guy!,988285,545-1
+120453,Is there any pattern to when your erectile dysfunction occurs?,I haven't had that problem.,991009,542-23
+122125,When did you first notice you were coughing up blood?,Don't have that problem.,997607,561-31
+122136,How often do you feel lightheaded?,I haven't had that problem.,997607,1685
+122152,Does anything make your lightheadedness better or worse?,I haven't had that problem.,997607,1683
+122190,Does the pain in your chest come and go?,Why are you asking me that?  I don't have pain there.,997607,238-204
+122197,What do your menstrual clots look like?,I'm a guy!,997607,414
+123404,Any tingling or numbness in your hands?,No,1004017,227-260
+123584,How severe (1-10 scale) is your ankle pain?,That doesn't hurt.,1004650,237-254
+125023,What are the events surrounding the start of your night sweats?,That's not a problem for me.,1008674,267-41
+125100,Any change in the appearance or position of your nipple(s)?,Uh...no.,1008695,1373
+125120,Have you listened to loud music or worked at jobs with high levels of noise?,No,1008695,1365
+125123,Do you now or have you ever had problems getting pregnant?,I'm a guy!,1008695,610
+125140,Do you have any pain in your ankles?,Uh...no.,1008695,230-254
+125141,When did your ankle pain start?,That doesn't hurt.,1008695,231-254
+125209,When did your night sweats start?,I don't have that problem.,1008779,561-41
+125709,Are you having any problems with your periods?,Haven't you noticed? I'm a guy!,1009246,106
+125710,How regular are your periods?,Haven't you noticed? I'm a guy!,1009246,109
+125878,How quickly does your diarrhea come on?,I haven't had that problem.,1009642,603-14
+125882,How long have you been trying to get pregnant?,Why are you asking me? I'm a guy!,1009642,611
+125927,"Do you use aids or assistive devices for dressing (button hook, zipper pull, shoe horn, etc.)?",Uh...no.,1009642,1769
+125928,"Do you use aids or assistive devices for personal hygiene (bathtub bar, long-handled appliances in bathroom, raised toilet seat, etc.)?",Nope.,1009642,1770
+125929,"Are you able to do housework (e.g., vacuum, laundry, dishes)?",Why are you asking me this?,1009642,1744
+125930,Do you use any long-handled appliances for reach?,No,1009642,1771
+125931,"Can you do your own shopping (e.g., grocery, drug store)?",Why are you asking me this?,1009642,1746
+126030,Does anyone in your family have problems with low blood pressure?,What? Why are you asking this?,1009824,1688
+127163,How often have you had problems with weight gain?,I haven't had that problem.,1011042,541-53
+127164,Is there any pattern to your problems with weight gain?,Don't have that problem.,1011042,542-53
+127306,What time do you go to sleep on weekdays? On weekends?,About the same time.  Around 9 or 10.,1011291,74
+127381,What are the events surrounding the start of your headache?,I haven't had that problem.,1011343,267-28
+127429,What treatments have you had for your low blood pressure?,That's not a problem for me.,1011343,1695
+129124,Do you have skin dimpling or retraction on your breasts?,Nope.,1012129,1390
+129125,Do you have any pain in your breasts?,No.,1012129,230-272
+129126,Is the pain in your breasts superficial (on the surface) or deep inside?,Why are you asking me that?  I don't have pain there.,1012129,597-272
+129132,When did your groin pain start?,I don't have any pain.,1012129,1257
+129135,What are the events surrounding the start of your feet pain?,I don't have pain there.,1012129,600-255
+129656,Are you able to plan and prepare your own meals?,I don't know why you are asking me this.,1012203,1747
+129660,Are you able to drive?,Why are you asking me this?,1012203,1745
+129661,Can you handle your bills and finances without assistance?,Why are you asking me this?,1012203,1748
+130739,Have you recently had a foreign body obstruction?,Uh...no.,1015338,475
+130742,Do you have a history of malnutrition?,Nope.,1015338,1118
+131173,Do you use a wheelchair?,Nope.,1016641,1768
+131308,Have you been in a hot tub recently?,No.,1017596,468
+131355,Do you have a history of chronic hemolytic anemia such as sickle cell disease?,No,1017596,632
+131364,Do you have a history of osteoporosis?,No,1017596,1155
+131396,How does your diagnosis affect your family/children?,Why are you asking me this?,1017596,1735
+131667,Do you have any other symptoms associated with your urination difficulty?,That's not a problem for me.,1019837,1660
+131687,Describe your activities shortly before bedtime.,Nothing unusual to tell you.,1019925,75
+132126,Is your pelvic pain superficial (on the surface) or deep inside?,I don't have pain there.,1023588,597-273
+132253,"Do you find that it is hard to experience feelings like happiness, love or satisfaction?",Uh...no.,1023962,738
+132538,Have you seen many different doctors about your symptoms?,I don't know why you are asking me this.,1024343,1655
+132791,Do you have any pain in your knees?,Uh...no.,1025396,230-257
+134625,Does your difficulty breathing keep you from sleeping?,I don't have difficulty breathing ... I am feeling a little short of breath.,1033709,602-19
+134650,Do you have discharge or bleeding from your ears?,No.,1033709,3
+134655,Do you have difficulty chewing?,Uh...no.,1033709,1387
+134678,Do you have problems wearing shoes?,Nope.,1033709,167
+135930,Do you have a history of SLE (lupus)?,Uh...no.,1036378,1149
+136704,Do you have any other symptoms associated with your pain/discomfort when urinating?,I don't have that problem.,1038052,598-20
+136715,Any problem moving your shoulders?,Nope.,1038052,228-253
+137219,Have you ever had bronchitis?,No,1045445,607
+137253,Tell me about the last time you felt dizzy.,I haven't felt dizzy.,1045445,335
+137496,Do you see any flashing lights?,Nope.,1046631,61
+137500,Do you have any pain when chewing?,Uh...no.,1046631,48
+137595,Have you ever had genital warts?,Uh...no.,1046631,1205
+137618,Do you wear a bike helmet when riding a bicycle or motorcycle?,Yeah.,1046631,624
+138302,Have you had problems coughing up blood before?,Uh...no.,1049807,242-31
+142326,Have you had rashes like this before?,No,1071949,242-44
+142820,Is your bleeding irregular in amount or duration?,I'm a guy!,1075229,148
+143391,Have you recently had mononucleosis or a cytomegalovirus (CMV) infection?,No,1079708,669
+144073,Are you a heavy snorer?,No,1082968,96
+150696,When did you first notice your swollen lymph nodes?,That's not a problem for me.,1128837,561-47
+151588,Does anything make your swollen lymph nodes better or worse?,I don't have that problem.,1135983,244-47
+151787,Have you noticed your child pulling on his or her ear?,Uh.... why are you asking me this?,1136328,1403
+155271,How often does this chest pain occur?,I don't have pain there.,1154667,599-204
+155272,How quickly does the pain in your chest come on?,I don't have pain there.,1154667,232-204
+155944,Has your cough persisted after having flu-like symptoms?,I don't have a cough.,1157151,301
+156181,Do your limbs sometimes twitch or can't keep still?,No.,1157875,98
+158658,Does your dizziness keep you from sleeping?,I don't have that problem.,1169387,602-16
+159895,When did your bruises appear?,Why are you asking me this?,1173456,1567
+161730,On what part of your body did the rash start and where did it spread?,I don't have a rash.,1180741,461
+161839,When did you fall?,Uh.... why are you asking me this?,1180820,1563
+161840,Can you describe how you fell?,Why are you asking me this?,1180820,1562
+161843,Have you had a recent crush injury?,Nope.,1180820,1143
+170494,Does anything make your flank pain better or worse?,I don't have pain there.,1202405,234-270
+170495,What are the events surrounding the start of your flank pain?,I don't have pain there.,1202405,600-270
+173370,When did your headache start?,I haven't had that problem.,1208993,561-28
+173373,Do your headaches improve when you drink caffeine?,I don't have a headache.,1208993,1147
+173374,Does your headache change with exercise?,I don't have a headache.,1208993,1135
+173375,Do your headaches occur when your caffeine intake changes?,I don't have a headache.,1208993,1146
+173378,Does anything make the pain in your shoulder(s) better or worse?,I don't have pain there.,1208993,234-253
+173379,Is the pain in your shoulder(s) superficial (on the surface) or deep inside?,I don't have pain there.,1208993,597-253
+173426,Do you use any objects to clean your ears?,Uh...no.,1208993,367
+173903,Do you have any pain in your hands?,Nope.,1209343,230-260
+173939,"Is your difficulty breathing better or worse at any time of day, week or year?",I don't have difficulty breathing ... I am feeling a little short of breath.,1209343,310-19
+173940,Does anyone in your family have difficulty breathing?,No,1209343,444-19
+174009,Is the pain in your arm(s) superficial (on the surface) or deep inside?,I don't have pain there.,1209343,597-259
+174031,Where more precisely is the swelling?,Uh.... why are you asking me this?,1209380,1413
+174240,Does anything make your problem with weight gain better or worse?,I haven't had that problem.,1209466,244-53
+175722,Do you have any dimming of your vision?,Uh...no.,1213626,1672
+175723,Have you noticed any distortions or loss of your central vision?,Nope.,1213626,1670
+176620,Do you have a mole that has changed?,No,1216903,478
+177746,Any tingling or numbness in your ankles?,Uh...no.,1223762,227-254
+177749,Any problem moving your eyes?,No,1223762,228-206
+177838,Do you hold on to furniture when you walk?,Uh...no.,1224325,1749
+177840,"Do you use a cane, crutches or walker?",Nope.,1224325,1415
+177841,Does your problem with swelling come and go?,That's not a problem for me.,1224325,604-22
+177842,Do you have any pain or other symptoms associated with your swelling?,I haven't had that problem.,1224325,598-22
+177843,How long does your swelling last?,I don't really have that problem.,1224325,1370
+178698,Does anything make your pelvic pain better or worse?,I don't have pain there.,1226669,234-273
+178771,Do you have any other symptoms associated with your anxiety?,Don't have that problem.,1226669,598-6
+179067,Where more precisely is your ankle pain?,I really don't have pain.,1227439,1311
+179068,What does your ankle pain feel like?,That doesn't hurt.,1227439,235-254
+180955,Do you have a history of spinal cord injury?,No.,1234763,653
+180957,Have you had any trauma to your arm(s)?,Nope.,1234763,596-259
+180976,Do you carry an epi pen with you?,Uh...no.,1234763,1739
+182055,"Have you ever been diagnosed with essential thrombocythemia, polycythemia vera or CML?",Nope.,1240941,666
+182061,Do you have a history of sarcoidosis?,Uh...no.,1240941,1151
+184337,Are you able to ejaculate?,What? Why are you asking this?,1251275,1343
+184608,Does anything make your headache better or worse?,Don't have that problem.,1254076,244-28
+184647,"Have you ever had times when your mood was good, or too good, for no reason?",No.,1254334,311
+185701,Does your diarrhea keep you from sleeping?,Don't have that problem.,1263689,602-14
+185806,Do you have any ear itching?,No,1265447,371
+186035,Have you had blood in your urine before?,No,1272352,242-30
+186067,Does anyone else in your family have a fever?,Nope.,1272352,444-25
+186131,Does your vision change with certain visual activities?,No,1272713,333
+186826,"Have you been to a party, rave or night club recently?",No.,1301227,1174
+187072,When did your flank pain start?,That doesn't hurt.,1308247,231-270
+187667,What are the events surrounding the start of your swelling problem?,That's not a problem for me.,1317735,267-22
+187668,When did your swelling start?,I don't have that problem.,1317735,561-22
+187671,How severe is your swelling?,That's not a problem for me.,1317735,543-22
+187672,Have you had swelling like this before?,No,1317735,242-22
+187673,Has there been any change in your swelling problem over time?,I don't have that problem.,1317735,439-22
+187683,What are the events surrounding the start of your sore throat?,That's not a problem for me.,1317735,267-46
+187684,What does the pain in your throat feel like?,I don't have pain there.,1317735,235-223
+187691,"When you pee, is the stream or flow of urine weak or do you dribble?",No,1317735,521
+,About where is that stomach pain?,All over my belly. Everywhere!,,
+,Do you remember what was going on when that started?,Just started up again 2 days ago. I hadn't had any problems since they shocked me a year ago.,,
+,Have you sought any other treatment for your stomach pain?,Nothing.,,
+,Sleeping normally?,Seems pretty normal to me.,,
+,How's your sleep?,Seems pretty normal to me.,,
+,How is your urination?,Fine.,,
+,How's your back?,Fine.,,
+,Have you tried eating?,"It was fine this morning, but I haven't eaten since the pain started.",,
+,Can you tell me more about what the stomach pain feels like?,Sharp! It's bad.,,
+,You haven't experienced any trauma to your stomach correct?,No. Nothing.,,
+,Have you ever had surgery?,"No, just that electrical treatment to my heart?",,
+,Can you tell me about your heart problems?,"I don't have a bad disease, but a year ago they did find out that I have some blockage. Not bad enough to do anything about it though.",,
+,How old was your father?,65 when he passed away.,,
+,Any history of cancer in your family?,No.,,
+,How's your family's health?,"Fine, I think.",,
+,Are we done here?,"Well, I've been sick to my stomach and throwing up.",,
+,Anything else you can think of before we finish?,I've been sick to my stomach and throwing up.,,
+,Does your stomach hurt when you move?,It doesn't matter what I do. It just hurts and it won't go away.,,
+,Does your stomach hurt when you're sitting?,It doesn't matter what I do. It just hurts and it won't go away.,,
+,Does your stomach hurt when you aren't moving?,It doesn't matter what I do. It just hurts and it won't go away.,,
+,How are you?,I've had really bad pain in my belly for the last 4 hours. My wife brought me in because it's so bad.,,
+,How are you doing?,I've had really bad pain in my belly for the last 4 hours. My wife brought me in because it's so bad.,,
+,Are you Tom Bradford?,That's me.,,
+,Are you Tom?,That's me.,,
+,Are you Mr. Bradford?,That's me.,,
+,Have you eaten today?,I had some oatmeal this morning. Several hours before this started. ,,
+,What have you eaten today?,I had some oatmeal this morning. Several hours before this started. ,,
